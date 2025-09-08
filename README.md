@@ -11,7 +11,7 @@ O nome **UniLibris** foi escolhido para refletir diretamente o propósito do sis
 - **"Uni"** → abreviação de **Universidade**, representando o ambiente acadêmico para o qual o projeto é destinado.  
 - **"Libris"** → deriva do **latim *liber***, que significa **livro**. O termo também aparece em expressões como *ex libris* (“dos livros de”), sempre relacionado ao conhecimento e à literatura.  
 
-Assim, **UniLibris** pode ser interpretado como **“Livros da Universidade”** ou **“Biblioteca Universitária”**, transmitindo a ideia de um acervo acadêmico organizado e acessível tanto para bibliotecários quanto para alunos.  
+Assim, **UniLibris** pode ser interpretado como **“Livros da Universidade”** ou **“Biblioteca Universitária”**, transmitindo a ideia de um acervo acadêmico organizado e acessível tanto para bibliotecários, professores quanto para alunos.  
 
 
 ### ✨ Valores transmitidos pelo nome
