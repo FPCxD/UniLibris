@@ -17,4 +17,46 @@ Assim, **UniLibris** pode ser interpretado como **“Livros da Universidade”**
 ### ✨ Valores transmitidos pelo nome
 - **Simplicidade** → curto, fácil de pronunciar e memorizar.  
 - **Identidade acadêmica** → conecta-se ao contexto universitário.  
-- **Tradição + inovação** → combina uma raiz clássica (*libris*) com uma abordagem tecnológica moderna (site responsivo/PWA).  
+- **Tradição + inovação** → combina uma raiz clássica (*libris*) com uma abordagem tecnológica moderna (site responsivo/PWA).
+
+---
+
+## 🚀 Tecnologias Utilizadas (planejado)
+- **Frontend**: [Next.js](https://nextjs.org/) (React Framework)  
+- **Backend**: [Node.js](https://nodejs.org/) + [Express](https://expressjs.com/)  
+- **Banco de Dados**: [PostgreSQL](https://www.postgresql.org/)  
+- **Estilização**: Tailwind CSS (ou outra lib a definir)  
+- **Autenticação**: JWT/OAuth
+- **Hospedagem**: (a definir)
+
+---
+
+## 🗂️ Funcionalidades Principais (planejadas)
+- [ ] Cadastro e administração do acervo de livros  
+- [ ] Controle de empréstimos e devoluções  
+- [ ] Consulta de disponibilidade de livros pelos alunos  
+- [ ] Área do bibliotecário com dashboards de gestão  
+- [ ] Área do aluno com histórico de empréstimos  
+- [ ] Notificações (atrasos/devoluções)
+
+---
+
+## 📝 User Stories (Backlog Inicial)
+- **Como aluno**, quero consultar os livros disponíveis para saber se posso emprestar.  
+- **Como aluno**, quero ver meu histórico de empréstimos e devoluções.
+- **Como aluno**, quero receber alertas sobre devoluções próximas ou atrasadas.
+- **Como bibliotecário**, quero cadastrar livros para manter o acervo atualizado.  
+- **Como bibliotecário**, quero editar ou remover livros do acervo quando necessário.  
+- **Como bibliotecário**, quero registrar empréstimos de livros para organizar o fluxo.
+- **Como bibliotecário**, quero registrar devoluções para manter o estoque correto.
+- **Como bibliotecário**, quero gerar relatórios de livros mais emprestados e pendentes.
+
+---
+
+## 🎨 Protótipos
+- Diagramas UML (casos de uso, sequência, fluxogramas)  
+- Protótipo de interface no Figma ou outra ferramenta (planejado)
+
+📌 Status do Projeto
+
+🚧 Em desenvolvimento — ainda em fase de planejamento e prototipagem.
