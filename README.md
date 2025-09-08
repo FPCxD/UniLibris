@@ -21,7 +21,7 @@ Assim, **UniLibris** pode ser interpretado como **“Livros da Universidade”**
 
 ---
 
-## 🚀 Tecnologias Utilizadas (planejado)
+## 🚀 Tecnologias Utilizadas (planejadas)
 - **Frontend**: [Next.js](https://nextjs.org/) (React Framework)  
 - **Backend**: [Node.js](https://nodejs.org/) + [Express](https://expressjs.com/)  
 - **Banco de Dados**: [PostgreSQL](https://www.postgresql.org/)  
