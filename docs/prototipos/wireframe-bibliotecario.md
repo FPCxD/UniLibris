@@ -24,4 +24,4 @@ Formulário:
 ### Relatórios
 - Livros mais emprestados  
 - Empréstimos em atraso  
-[Exportar CSV / PDF]
+[Exportar PDF]
