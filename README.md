@@ -25,7 +25,7 @@ Assim, **UniLibris** pode ser interpretado como **“Livros da Universidade”**
 - **Frontend**: [Next.js](https://nextjs.org/) (React Framework)  
 - **Backend**: [Node.js](https://nodejs.org/) + [Express](https://expressjs.com/)  
 - **Banco de Dados**: [PostgreSQL](https://www.postgresql.org/)  
-- **Estilização**: Tailwind CSS (ou outra lib a definir)  
+- **Estilização**: Tailwind CSS  
 - **Autenticação**: JWT/OAuth
 - **Hospedagem**: (a definir)
 
