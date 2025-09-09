@@ -8,13 +8,13 @@
 - Perfil / Logout
 
 ## Área principal
-### Consulta de livros
+### Consulta de Livros
 [Buscar livro __________] [Filtro Categoria ▼] [Filtro Autor ▼]  
 Lista de livros:  
 - Livro A | Autor A | Disponível [Solicitar]  
 - Livro B | Autor B | Emprestado [Solicitar]
 
-### Histórico
+### Histórico de Empréstimos
 - Livro X | Retirada: 01/09/2025 | Devolução: 08/09/2025 | ✅ Devolvido  
 - Livro Y | Retirada: 05/09/2025 | Devolução: 12/09/2025 | ❌ Atrasado  
 
