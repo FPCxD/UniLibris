@@ -55,7 +55,7 @@ Assim, **UniLibris** pode ser interpretado como **“Livros da Universidade”**
 
 ## 🎨 Protótipos
 - Diagramas UML (casos de uso, sequência, fluxogramas)  
-- Protótipo de interface no Figma ou outra ferramenta (planejado)
+- Protótipo de interface
 
 📌 Status do Projeto
 
