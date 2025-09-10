@@ -41,7 +41,7 @@ Assim, **UniLibris** pode ser interpretado como **“Livros da Universidade”**
 
 ---
 
-## 📝 User Stories (Backlog Inicial)
+## 📝 História de usuário
 - **Como aluno**, quero consultar os livros disponíveis para saber se posso emprestar.  
 - **Como aluno**, quero ver meu histórico de empréstimos e devoluções.
 - **Como aluno**, quero receber alertas sobre devoluções próximas ou atrasadas.
