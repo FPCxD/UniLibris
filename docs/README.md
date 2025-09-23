@@ -13,7 +13,7 @@ Esta pasta contém toda a documentação do sistema **UniLibris**, incluindo dia
 - `sequencia_login.png` → Diagrama de sequência UML mostrando a interação de login com validação de role.
 - `backlog.md` → Backlog do projeto, com user stories, funcionalidades e prioridades.  
 - `prototipos/` → Pasta para protótipos de UI/UX (wireframes, mockups, diagramas de fluxo).
-- `/requirements/non-functional.md` → Requisitos Não Funcionais (RNFs).
+- `requirements/non-functional.md` → Requisitos Não Funcionais (RNFs).
 
 ---
 
