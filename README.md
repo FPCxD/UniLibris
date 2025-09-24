@@ -53,6 +53,21 @@ Assim, **UniLibris** pode ser interpretado como **“Livros da Universidade”**
 
 ---
 
+## 🧪 Testes e BDD
+Este projeto adota **Behavior Driven Development (BDD)**.
+Os cenários estão descritos em [docs/tests/bdd/gherkin.md](./docs/tests/bdd/gherkin.md).
+
+Exemplo:
+```
+Funcionalidade: Login com e-mail institucional
+  Cenário: Login válido como aluno
+    Dado que estou na página de login
+    Quando informo o e-mail "aluno@fatec.sp.gov.br" e a senha "SenhaValida123"
+    Então devo ser autenticado com sucesso
+```
+
+---
+
 ## 🎨 Protótipos
 - Diagramas UML (casos de uso, sequência, fluxogramas)  
 - Protótipo de interface
