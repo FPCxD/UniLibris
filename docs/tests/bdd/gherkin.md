@@ -1,4 +1,4 @@
-# 🧪 Cenários BDD (Gherkin) – UniLibris
+# Cenários BDD (Gherkin) – UniLibris
 
 ---
 
