@@ -14,6 +14,7 @@ Esta pasta contém toda a documentação do sistema **UniLibris**, incluindo dia
 - `backlog.md` → Backlog do projeto, com user stories, funcionalidades e prioridades.  
 - `prototipos/` → Pasta para protótipos de UI/UX (wireframes, mockups, diagramas de fluxo).
 - `requirements/non-functional.md` → Requisitos Não Funcionais (RNFs).
+- `tests/bdd/gherkin.md` → Cenários BDD descritos em Gherkin.
 
 ---
 
