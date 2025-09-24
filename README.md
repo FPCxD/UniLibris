@@ -31,6 +31,28 @@ Assim, **UniLibris** pode ser interpretado como **“Livros da Universidade”**
 
 ---
 
+## 📂 Estrutura de Pastas
+
+unilibris/
+│
+├── backend/               # API em Node.js/Express + integração com banco PostgreSQL
+│   └── README.md
+│
+├── frontend/              # Aplicação Next.js (interface do aluno e do bibliotecário)
+│   └── README.md
+│
+├── docs/                  # Documentação completa do projeto
+│   ├── backlog.md         # Backlog do produto e histórias de usuário
+│   ├── requirements/      # Requisitos funcionais e não funcionais
+│   ├── prototipos/        # Wireframes, diagramas UML e fluxogramas
+│   └── tests/
+│       └── bdd/
+│           └── gherkin.md # Cenários BDD escritos em Gherkin
+│
+└── README.md              # Apresentação geral do projeto
+
+---
+
 ## 🗂️ Funcionalidades Principais (planejadas)
 - [ ] Cadastro e administração do acervo de livros  
 - [ ] Controle de empréstimos e devoluções  
