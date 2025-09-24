@@ -1,4 +1,7 @@
-Funcionalidade: Login com e-mail institucional
+## 🔑 Login com e-mail institucional
+**Funcionalidade:**
+```
+Login com e-mail institucional
   Para acessar o UniLibris
   Como aluno da Fatec
   Quero logar apenas com meu e-mail @fatec.sp.gov.br
@@ -15,9 +18,14 @@ Funcionalidade: Login com e-mail institucional
     Quando informo o e-mail "teste@gmail.com" e a senha "qualquer"
     E envio o formulário de login
     Então devo ver a mensagem "⚠️ Utilize apenas seu e-mail institucional"
+```
 
+---
 
-Funcionalidade: Cadastro de novo usuário
+## 📝 Cadastro de novo usuário
+**Funcionalidade:**
+```
+Cadastro de novo usuário
   Para ter acesso ao UniLibris
   Como aluno da Fatec
   Quero criar uma conta com meu e-mail institucional
@@ -31,9 +39,14 @@ Funcionalidade: Cadastro de novo usuário
     E envio o formulário de cadastro
     Então devo ver a mensagem "Cadastro realizado com sucesso"
     E devo poder fazer login com as credenciais criadas
+```
 
+---
 
-Funcionalidade: Consulta de livros
+## 📖 Consulta de livros
+**Funcionalidade:**
+```
+Consulta de livros
   Para encontrar materiais disponíveis
   Como aluno logado
   Quero buscar livros por título, autor ou categoria
@@ -43,9 +56,14 @@ Funcionalidade: Consulta de livros
     Quando pesquiso por "Banco de Dados"
     Então devo ver na lista o livro "Introdução a Banco de Dados"
     E o status deve ser "Disponível"
+```
 
+---
 
-Funcionalidade: Controle de empréstimos
+## 📚 Controle de empréstimos (Bibliotecário)
+**Funcionalidade:**
+```
+Controle de empréstimos
   Para gerenciar o acervo da biblioteca
   Como bibliotecário
   Quero registrar empréstimos de alunos
@@ -56,9 +74,14 @@ Funcionalidade: Controle de empréstimos
     Quando associo o livro ao aluno "Maria Souza"
     Então o status do livro deve mudar para "Emprestado"
     E deve ser registrado um empréstimo com data de retirada e devolução
+```
 
+---
 
-Funcionalidade: Recuperação de senha
+## 🔒 Recuperação de senha
+**Funcionalidade:**
+```
+Recuperação de senha
   Para recuperar acesso ao UniLibris
   Como usuário cadastrado
   Quero redefinir minha senha via link no e-mail institucional
@@ -75,9 +98,14 @@ Funcionalidade: Recuperação de senha
     E confirmo a nova senha
     Então devo ver a mensagem "Senha redefinida com sucesso"
     E devo poder acessar com a nova senha
+```
 
+---
 
-Funcionalidade: Notificações de atraso
+## 🔔 Notificações de atraso
+**Funcionalidade:**
+```
+Notificações de atraso
   Para não perder prazos de devolução
   Como aluno
   Quero receber alertas sobre livros próximos ao vencimento ou atrasados
@@ -93,3 +121,4 @@ Funcionalidade: Notificações de atraso
     E tenho o livro "Lógica de Programação" com devolução vencida
     Quando acesso o dashboard
     Então devo ver a notificação "❌ O livro Lógica de Programação está atrasado"
+```
