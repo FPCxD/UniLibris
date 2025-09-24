@@ -1,4 +1,4 @@
-# 🎨 Wireframe – Dashboard Aluno
+# 🎨 Dashboard Aluno
 
 ## Menu lateral
 - Home
