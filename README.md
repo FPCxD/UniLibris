@@ -46,7 +46,7 @@ unilibris/
 │
 ├── docs/                  # Documentação completa do projeto
 │   ├── backlog.md         # Backlog do produto e histórias de usuário
-│   ├── requirements/      # Requisitos funcionais e não funcionais
+│   ├── requirements/      # Requisitos não funcionais
 │   ├── prototipos/        # Wireframes, diagramas UML e fluxogramas
 │   └── tests/
 │       └── bdd/
