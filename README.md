@@ -33,6 +33,9 @@ Assim, **UniLibris** pode ser interpretado como **“Livros da Universidade”**
 
 ## 📂 Estrutura de Pastas
 
+O projeto está organizado da seguinte forma:
+
+```plaintext
 unilibris/
 │
 ├── backend/               # API em Node.js/Express + integração com banco PostgreSQL
@@ -50,6 +53,7 @@ unilibris/
 │           └── gherkin.md # Cenários BDD escritos em Gherkin
 │
 └── README.md              # Apresentação geral do projeto
+```
 
 ---
 
