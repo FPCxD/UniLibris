@@ -1,4 +1,4 @@
-# 🎨 Wireframe – Dashboard Bibliotecário
+# 🎨 Dashboard Bibliotecário
 
 ## Menu lateral
 - Home
