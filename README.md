@@ -76,7 +76,7 @@ unilibris/
 - **Como aluno**, quero **receber alertas sobre devoluções próximas ou atrasadas** para **não perder prazos**.  
 - **Como bibliotecário**, quero **registrar empréstimos de alunos** para **gerenciar o acervo da biblioteca**.  
 - **Como bibliotecário**, quero **cadastrar, editar e remover livros do acervo** para **manter o acervo atualizado**, evitando duplicidade de ISBN e remoção de livros emprestados.  
-- **Como bibliotecário**, quero **gerar relatórios de livros mais emprestados e pendentes**, além de **exportá-los em PDF/CSV**, para **analisar o uso do acervo**.  
+- **Como bibliotecário**, quero **gerar relatórios de livros mais emprestados e pendentes**, além de **exportá-los em PDF**, para **analisar o uso do acervo**.  
 - **Como usuário cadastrado**, quero **redefinir minha senha via link no e-mail institucional** para **recuperar acesso ao UniLibris**.
 
 ---
