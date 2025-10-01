@@ -5,9 +5,9 @@
 ## 🔐 **Login com e-mail institucional**
 ```
 Funcionalidade: Login com e-mail institucional
-  Para acessar o UniLibris
   Como aluno da Fatec
   Quero logar apenas com meu e-mail @fatec.sp.gov.br
+  Para acessar o UniLibris
 
   Cenário: Login válido como aluno
     Dado que estou na página de login
@@ -28,9 +28,9 @@ Funcionalidade: Login com e-mail institucional
 ## 📝 **Cadastro de novo usuário**
 ```
 Funcionalidade: Cadastro de novo usuário
-  Para ter acesso ao UniLibris
   Como aluno da Fatec
   Quero criar uma conta com meu e-mail institucional
+  Para ter acesso ao UniLibris
 
   Cenário: Cadastro com sucesso
     Dado que estou na página de cadastro
@@ -48,9 +48,9 @@ Funcionalidade: Cadastro de novo usuário
 ## 📖 **Consulta de livros**
 ```
 Funcionalidade: Consulta de livros
-  Para encontrar materiais disponíveis
   Como aluno logado
   Quero buscar livros por título, autor ou categoria
+  Para encontrar materiais disponíveis
 
   Cenário: Buscar livro disponível
     Dado que estou logado como aluno
@@ -64,9 +64,9 @@ Funcionalidade: Consulta de livros
 ## 🧑‍🎓 **Solicitação de empréstimo (Aluno)**
 ```
 Funcionalidade: Solicitar empréstimo de livro
-  Para retirar livros do acervo
   Como aluno logado
   Quero solicitar empréstimo de um livro disponível
+  Para retirar livros do acervo
 
   Cenário: Solicitar livro disponível com sucesso
     Dado que estou logado como aluno
@@ -96,9 +96,9 @@ Funcionalidade: Solicitar empréstimo de livro
 ## 🗂 **Histórico de empréstimos (Aluno)**
 ```
 Funcionalidade: Histórico de empréstimos do aluno
-  Para acompanhar minhas retiradas e devoluções
   Como aluno logado
   Quero visualizar meu histórico com status e datas
+  Para acompanhar minhas retiradas e devoluções
 
   Cenário: Visualizar histórico com status
     Dado que estou logado como aluno
@@ -124,9 +124,9 @@ Funcionalidade: Histórico de empréstimos do aluno
 ## 📑 **Controle de empréstimos (Bibliotecário)**
 ```
 Funcionalidade: Controle de empréstimos
-  Para gerenciar o acervo da biblioteca
   Como bibliotecário
   Quero registrar empréstimos de alunos
+  Para gerenciar o acervo da biblioteca
 
   Cenário: Realizar empréstimo de livro
     Dado que estou logado como bibliotecário
@@ -141,9 +141,9 @@ Funcionalidade: Controle de empréstimos
 ## 🗃️ **Gestão de acervo (Bibliotecário)**
 ```
 Funcionalidade: Cadastro e manutenção do acervo
-  Para manter o acervo atualizado
   Como bibliotecário
   Quero cadastrar, editar e remover livros
+  Para manter o acervo atualizado
 
   Cenário: Cadastrar novo livro com sucesso
     Dado que estou logado como bibliotecário
@@ -187,9 +187,9 @@ Funcionalidade: Cadastro e manutenção do acervo
 ## 📊 **Relatórios e Exportação (Bibliotecário)**
 ```
 Funcionalidade: Relatórios e exportação de dados
-  Para analisar o uso do acervo
   Como bibliotecário
   Quero gerar relatórios e exportá-los em formatos padrão
+  Para analisar o uso do acervo
 
   Cenário: Relatório de livros mais emprestados por período
     Dado que estou logado como bibliotecário
@@ -222,9 +222,9 @@ Funcionalidade: Relatórios e exportação de dados
 ## 🔑 **Recuperação de senha**
 ```
 Funcionalidade: Recuperação de senha
-  Para recuperar acesso ao UniLibris
   Como usuário cadastrado
   Quero redefinir minha senha via link no e-mail institucional
+  Para recuperar acesso ao UniLibris
 
   Cenário: Solicitar redefinição de senha
     Dado que estou na página de login
@@ -245,9 +245,9 @@ Funcionalidade: Recuperação de senha
 ## 🔔 **Notificações de atraso**
 ```
 Funcionalidade: Notificações de atraso
-  Para não perder prazos de devolução
   Como aluno
   Quero receber alertas sobre livros próximos ao vencimento ou atrasados
+  Para não perder prazos de devolução
 
   Cenário: Alerta de devolução próxima
     Dado que estou logado como aluno
