@@ -71,10 +71,10 @@ Funcionalidade: Solicitar empréstimo de livro
   Cenário: Solicitar livro disponível com sucesso
     Dado que estou logado como aluno
     E estou na página "Consulta de livros"
-    E o livro "Algoritmos Modernos" está "Disponível"
-    Quando clico em "Solicitar Empréstimo" para o livro "Algoritmos Modernos"
+    E o livro "Algoritmos" está "Disponível"
+    Quando clico em "Solicitar Empréstimo" para o livro "Algoritmos"
     Então devo ver a mensagem "Solicitação registrada com sucesso"
-    E o status do livro "Algoritmos Modernos" deve ser "Solicitado"
+    E o status do livro "Algoritmos" deve ser "Solicitado"
 
   Cenário: Impedir solicitação de livro emprestado
     Dado que estou logado como aluno
