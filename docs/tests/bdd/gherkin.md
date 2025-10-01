@@ -131,7 +131,7 @@ Funcionalidade: Controle de empréstimos
   Cenário: Realizar empréstimo de livro
     Dado que estou logado como bibliotecário
     E o livro "Engenharia de Software" está "Disponível"
-    Quando associo o livro ao aluno "Maria Souza"
+    Quando associo o livro ao aluno "Nome Sobrenome"
     Então o status do livro deve mudar para "Emprestado"
     E deve ser registrado um empréstimo com data de retirada e devolução
 ```
@@ -251,9 +251,9 @@ Funcionalidade: Notificações de atraso
 
   Cenário: Alerta de devolução próxima
     Dado que estou logado como aluno
-    E tenho o livro "Matemática Discreta" com devolução para amanhã
+    E tenho o livro "Matemática" com devolução para amanhã
     Quando acesso o dashboard
-    Então devo ver a notificação "⚠️ O livro Matemática Discreta vence amanhã"
+    Então devo ver a notificação "⚠️ O livro Matemática vence amanhã"
 
   Cenário: Alerta de livro atrasado
     Dado que estou logado como aluno
