@@ -211,7 +211,7 @@ Funcionalidade: Relatórios e exportação de dados
     Então devo receber um arquivo CSV contendo as colunas "Título", "Autor", "Categoria", "Status" e "ISBN"
 
   Cenário: Baixar comprovante de empréstimo
-    Dado que registrei um empréstimo para o aluno "João Santos" do livro "Sistemas Operacionais"
+    Dado que registrei um empréstimo para o aluno "Nome Sobrenome" do livro "Sistemas Operacionais"
     Quando clico em "Baixar comprovante"
     Então devo fazer o download de um PDF com os dados do empréstimo
     E o comprovante deve conter aluno, livro, data de retirada e data prevista de devolução
