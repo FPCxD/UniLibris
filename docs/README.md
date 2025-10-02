@@ -7,8 +7,8 @@ Esta pasta contém toda a documentação do sistema **UniLibris**, incluindo dia
 ## 🗂 Estrutura da pasta
 
 - `prototipos/` → Pasta para protótipos de UI/UX (wireframes, mockups, diagramas de fluxo).
-- `uml/` → Pasta para diagramas UML.
 - `requirements/non-functional.md` → Requisitos Não Funcionais.
+- `uml/` → Pasta para diagramas UML.
 
 ---
 
