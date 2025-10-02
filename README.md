@@ -38,27 +38,40 @@ O projeto está organizado da seguinte forma:
 ```plaintext
 unilibris/
 │
-├── backend/                           # API em Node.js/Express + integração com banco PostgreSQL
+├── backend/                             # API em Node.js/Express + integração com banco PostgreSQL
 │   └── README.md
 │
-├── frontend/                          # Aplicação Next.js (interface do aluno e do bibliotecário)
+├── frontend/                            # Aplicação Next.js (interface do aluno e do bibliotecário)
 │   └── README.md
 │
-├── docs/                              # Documentação completa do projeto
-│   ├── fluxograma.png                 # Fluxograma geral do sistema, mostrando o fluxo de uso entre alunos e bibliotecários
-|   ├── casos_de_uso.png               # Diagrama de casos de uso UML, ilustrando os atores e funcionalidades principais
-|   ├── sequencia_aluno.png            # Diagrama de sequência UML mostrando a interação de um aluno consultando livros
-|   ├── sequencia_bibliotecario.png    # Diagrama de sequência UML mostrando a interação de um bibliotecário cadastrando livros
-|   ├── sequencia_login.png            # Diagrama de sequência UML mostrando a interação de login com validação de role
-│   └── requirements/                  
-|       └── non-functional.md          # Requisitos Não Funcionais
-│   └── prototipos/                    # Wireframes, diagramas UML e fluxogramas
-│       ├── wireframe-aluno.md         # Dashboard do aluno  
-|       ├── wireframe-bibliotecario.md # Dashboard do bibliotecário
-|       ├── img_desktop/               # Dashboards visuais (desktop)
-|       └── img_mobile/                # Dashboards visuais (mobile)
+├── docs/                                # Documentação completa do projeto
+│   ├── README.md           
+│   ├── prototipos/                      # Pasta para protótipos de UI/UX (wireframes e mockups).
+|   |   ├── wireframe-aluno.md           # Dashboard do aluno
+|   |   ├── wireframe-bibliotecario.md   # Dashboard do bibliotecário
+|   |   ├── img_desktop/                 # Dashboards visuais (desktop)
+|   |   │   ├── aluno.png
+|   |   │   ├── bibliotecario.png
+|   |   │   ├── forgot-password.png
+|   |   │   ├── login.png
+|   |   │   └── register.png
+|   |   ├── img_mobile/                  # Dashboards visuais (mobile)
+|   |   │   ├── aluno.png
+|   |   │   ├── bibliotecario.png
+|   |   │   ├── forgot-password.png
+|   |   │   ├── login.png
+|   |   │   └── register.png
+|   |   └── README.md
+│   ├── requirements/
+|   |   └── non-functional.md            # Requisitos Não Funcionais 
+|   └── uml/                             # Pasta para diagramas UML
+|       ├── fluxograma.png               # Fluxograma geral do sistema, mostrando o fluxo de uso entre alunos e bibliotecários
+|       ├── casos_de_uso.png             # Diagrama de casos de uso UML, ilustrando os atores e funcionalidades principais
+|       ├── sequencia_aluno.png          # Diagrama de sequência UML mostrando a interação de um aluno consultando livros
+|       ├── sequencia_bibliotecario.png  # Diagrama de sequência UML mostrando a interação de um bibliotecário cadastrando livros
+|       └── sequencia_login.png          # Diagrama de sequência UML mostrando a interação de login com validação de role    
 |
-└── README.md                          # Apresentação geral do projeto
+└── README.md                            # Apresentação geral do projeto
 ```
 
 ---
