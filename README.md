@@ -116,7 +116,7 @@ Os requisitos não funcionais estão descritos em [Requisitos Não Funcionais](d
 ![Diagrama de Sequência - Login](docs/uml/sequencia_login.png)
 
   
-### Protótipo de interface
+### Protótipo de interface (UI/UX)
 #### 🖥️ Dashboards – Desktop
 
 - **Aluno**  
