@@ -113,21 +113,25 @@ As histórias de usuário e os cenários estão descritos em https://github.com/
   
 ### Protótipo de interface
 #### 🖥️ Dashboards – Desktop
-- **Aluno**
-![Dashboard do Aluno – Desktop](docs/prototipos/img_desktop/aluno.png)
 
-- **Bibliotecário**
-![Dashboard do Bibliotecário – Desktop](docs/prototipos/img_desktop/bibliotecario.png)
+- **Aluno**  
+  <img src="./docs/prototipos/img_desktop/aluno.png" alt="Dashboard do Aluno – Desktop" width="400"/>
+
+- **Bibliotecário**  
+  <img src="./docs/prototipos/img_desktop/bibliotecario.png" alt="Dashboard do Bibliotecário – Desktop" width="400"/>
+
+---
 
 #### 🔑 Telas de Acesso – Desktop
-- **Login**
-![Login – Desktop](docs/prototipos/img_desktop/login.png)
 
-- **Esqueci minha senha**
-![Esqueci minha senha – Desktop](docs/prototipos/img_desktop/forgot-password.png)
+- **Login**  
+  <img src="./docs/prototipos/img_desktop/login.png" alt="Login – Desktop" width="400"/>
 
-- **Cadastro**
-![Cadastro – Desktop](docs/prototipos/img_desktop/register.png)
+- **Esqueci minha senha**  
+  <img src="./docs/prototipos/img_desktop/forgot-password.png" alt="Esqueci minha senha – Desktop" width="400"/>
+
+- **Cadastro**  
+  <img src="./docs/prototipos/img_desktop/register.png" alt="Cadastro – Desktop" width="400"/>
 
 ---
 
