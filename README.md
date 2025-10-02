@@ -92,6 +92,11 @@ As histórias de usuário e os cenários estão descritos em https://github.com/
 
 ---
 
+## 📐 História de usuário e Gherkin
+Os requisitos não funcionais estão descritos em ![Requisitos não funcionais](docs/requirements/non-functional.md)
+
+---
+
 ## 🎨 Protótipos
 ### Diagramas UML (casos de uso, fluxograma e sequência)
 
