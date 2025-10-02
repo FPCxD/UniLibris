@@ -112,6 +112,41 @@ As histórias de usuário e os cenários estão descritos em https://github.com/
 
   
 ### Protótipo de interface
+#### Dashboards – Desktop
+- **Aluno**
+![Dashboard do Aluno – Desktop](docs/prototipos/img_desktop/aluno.png)
+
+- **Bibliotecário**
+![Dashboard do Bibliotecário – Desktop](docs/prototipos/img_desktop/bibliotecario.png)
+
+#### Telas de Acesso – Desktop
+- **Login**
+![Login – Desktop](docs/prototipos/img_desktop/login.png)
+
+- **Esqueci minha senha**
+![Esqueci minha senha – Desktop](docs/prototipos/img_desktop/esqueci-senha.png)
+
+- **Cadastro** *(se aplicável)*
+![Cadastro – Desktop](docs/prototipos/img_desktop/cadastro.png)
+
+---
+
+#### Dashboards – Mobile
+- **Aluno**
+![Dashboard do Aluno – Mobile](docs/prototipos/img_mobile/aluno.png)
+
+- **Bibliotecário**
+![Dashboard do Bibliotecário – Mobile](docs/prototipos/img_mobile/bibliotecario.png)
+
+#### Telas de Acesso – Mobile
+- **Login**
+![Login – Mobile](docs/prototipos/img_mobile/login.png)
+
+- **Esqueci minha senha**
+![Esqueci minha senha – Mobile](docs/prototipos/img_mobile/esqueci-senha.png)
+
+- **Cadastro** *(se aplicável)*
+![Cadastro – Mobile](docs/prototipos/img_mobile/cadastro.png)
 
 ---
 
