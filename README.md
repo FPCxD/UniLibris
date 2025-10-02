@@ -124,10 +124,10 @@ As histórias de usuário e os cenários estão descritos em https://github.com/
 ![Login – Desktop](docs/prototipos/img_desktop/login.png)
 
 - **Esqueci minha senha**
-![Esqueci minha senha – Desktop](docs/prototipos/img_desktop/esqueci-senha.png)
+![Esqueci minha senha – Desktop](docs/prototipos/img_desktop/forgot-password.png)
 
 - **Cadastro** *(se aplicável)*
-![Cadastro – Desktop](docs/prototipos/img_desktop/cadastro.png)
+![Cadastro – Desktop](docs/prototipos/img_desktop/register.png)
 
 ---
 
