@@ -115,23 +115,23 @@ As histórias de usuário e os cenários estão descritos em https://github.com/
 #### 🖥️ Dashboards – Desktop
 
 - **Aluno**  
-  <img src="./docs/prototipos/img_desktop/aluno.png" alt="Dashboard do Aluno – Desktop" width="400"/>
+  <img src="./docs/prototipos/img_desktop/aluno.png" alt="Dashboard do Aluno – Desktop" width="850"/>
 
 - **Bibliotecário**  
-  <img src="./docs/prototipos/img_desktop/bibliotecario.png" alt="Dashboard do Bibliotecário – Desktop" width="400"/>
+  <img src="./docs/prototipos/img_desktop/bibliotecario.png" alt="Dashboard do Bibliotecário – Desktop" width="850"/>
 
 ---
 
 #### 🔑 Telas de Acesso – Desktop
 
 - **Login**  
-  <img src="./docs/prototipos/img_desktop/login.png" alt="Login – Desktop" width="400"/>
+  <img src="./docs/prototipos/img_desktop/login.png" alt="Login – Desktop" width="850"/>
 
 - **Esqueci minha senha**  
-  <img src="./docs/prototipos/img_desktop/forgot-password.png" alt="Esqueci minha senha – Desktop" width="400"/>
+  <img src="./docs/prototipos/img_desktop/forgot-password.png" alt="Esqueci minha senha – Desktop" width="850"/>
 
 - **Cadastro**  
-  <img src="./docs/prototipos/img_desktop/register.png" alt="Cadastro – Desktop" width="400"/>
+  <img src="./docs/prototipos/img_desktop/register.png" alt="Cadastro – Desktop" width="850"/>
 
 ---
 
