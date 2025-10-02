@@ -93,8 +93,25 @@ As histórias de usuário e os cenários estão descritos em https://github.com/
 ---
 
 ## 🎨 Protótipos
-- Diagramas UML (casos de uso, sequência, fluxogramas)  
-- Protótipo de interface
+### Diagramas UML (casos de uso, fluxograma e sequência)
+
+- Casos de uso  
+![Diagrama de Casos de Uso](docs/uml/casos_de_uso.png)
+
+- Fluxograma  
+![Fluxograma Geral](docs/uml/fluxograma.png)
+
+- Diagrama de sequência (Aluno)  
+![Diagrama de Sequência - Aluno](docs/uml/sequencia_aluno.png)
+
+- Diagrama de sequência (Bibliotecário)  
+![Diagrama de Sequência - Bibliotecário](docs/uml/sequencia_bibliotecario.png)
+
+- Diagrama de sequência (Login)  
+![Diagrama de Sequência - Login](docs/uml/sequencia_login.png)
+
+  
+### Protótipo de interface
 
 ---
 
