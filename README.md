@@ -133,20 +133,20 @@ As histórias de usuário e os cenários estão descritos em https://github.com/
 
 #### Dashboards – Mobile
 - **Aluno**
-![Dashboard do Aluno – Mobile](docs/prototipos/img_mobile/aluno.png)
+![Dashboard do Aluno – Mobile](docs/prototipos/img_mobile/aluno.jpg)
 
 - **Bibliotecário**
-![Dashboard do Bibliotecário – Mobile](docs/prototipos/img_mobile/bibliotecario.png)
+![Dashboard do Bibliotecário – Mobile](docs/prototipos/img_mobile/bibliotecario.jpg)
 
 #### Telas de Acesso – Mobile
 - **Login**
-![Login – Mobile](docs/prototipos/img_mobile/login.png)
+![Login – Mobile](docs/prototipos/img_mobile/login.jpg)
 
 - **Esqueci minha senha**
-![Esqueci minha senha – Mobile](docs/prototipos/img_mobile/esqueci-senha.png)
+![Esqueci minha senha – Mobile](docs/prototipos/img_mobile/forgot-password.jpg)
 
 - **Cadastro** *(se aplicável)*
-![Cadastro – Mobile](docs/prototipos/img_mobile/cadastro.png)
+![Cadastro – Mobile](docs/prototipos/img_mobile/register.jpg)
 
 ---
 
