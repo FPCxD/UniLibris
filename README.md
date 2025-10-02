@@ -83,7 +83,7 @@ unilibris/
 
 ## 🧪 Testes e BDD
 Este projeto adota **Behavior Driven Development (BDD)**.
-Os cenários estão descritos em [docs/tests/bdd/gherkin.md](./docs/tests/bdd/gherkin.md).
+Os cenários estão descritos em (https://github.com/users/FPCxD/projects/1).
 
 Exemplo:
 ```
