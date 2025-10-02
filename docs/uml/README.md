@@ -1,4 +1,6 @@
-## 🗂 Estrutura da pasta
+# 📂 Diagramas da UML
+
+Esta pasta contém os **diagramas** da UML referentes ao UniLibris.
 
 - `casos_de_uso.png` → Diagrama de casos de uso UML, ilustrando os atores e funcionalidades principais.  
 - `fluxograma.png` → Fluxograma geral do sistema, mostrando o fluxo de uso entre alunos e bibliotecários.  
