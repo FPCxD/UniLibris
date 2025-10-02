@@ -127,7 +127,7 @@ As histórias de usuário e os cenários estão descritos em https://github.com/
 - **Login**  
   <img src="./docs/prototipos/img_desktop/login.png" alt="Login – Desktop" width="850"/>
 
-- **Esqueci minha senha**  
+- **Recuperar senha**  
   <img src="./docs/prototipos/img_desktop/forgot-password.png" alt="Esqueci minha senha – Desktop" width="850"/>
 
 - **Cadastro**  
@@ -150,7 +150,7 @@ As histórias de usuário e os cenários estão descritos em https://github.com/
 - **Login**  
   <img src="./docs/prototipos/img_mobile/login.jpg" alt="Login – Mobile" width="250"/>
 
-- **Esqueci minha senha**  
+- **Recuperar senha**  
   <img src="./docs/prototipos/img_mobile/forgot-password.jpg" alt="Esqueci minha senha – Mobile" width="250"/>
 
 - **Cadastro**  
