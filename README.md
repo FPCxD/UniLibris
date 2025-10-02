@@ -112,41 +112,45 @@ As histórias de usuário e os cenários estão descritos em https://github.com/
 
   
 ### Protótipo de interface
-#### Dashboards – Desktop
+#### 🖥️ Dashboards – Desktop
 - **Aluno**
 ![Dashboard do Aluno – Desktop](docs/prototipos/img_desktop/aluno.png)
 
 - **Bibliotecário**
 ![Dashboard do Bibliotecário – Desktop](docs/prototipos/img_desktop/bibliotecario.png)
 
-#### Telas de Acesso – Desktop
+#### 🔑 Telas de Acesso – Desktop
 - **Login**
 ![Login – Desktop](docs/prototipos/img_desktop/login.png)
 
 - **Esqueci minha senha**
 ![Esqueci minha senha – Desktop](docs/prototipos/img_desktop/forgot-password.png)
 
-- **Cadastro** *(se aplicável)*
+- **Cadastro**
 ![Cadastro – Desktop](docs/prototipos/img_desktop/register.png)
 
 ---
 
-#### Dashboards – Mobile
-- **Aluno**
-![Dashboard do Aluno – Mobile](docs/prototipos/img_mobile/aluno.jpg)
+#### 📱 Dashboards – Mobile
 
-- **Bibliotecário**
-![Dashboard do Bibliotecário – Mobile](docs/prototipos/img_mobile/bibliotecario.jpg)
+- **Aluno**  
+  <img src="./docs/prototipos/img_mobile/aluno.jpg" alt="Dashboard do Aluno – Mobile" width="250"/>
 
-#### Telas de Acesso – Mobile
-- **Login**
-![Login – Mobile](docs/prototipos/img_mobile/login.jpg)
+- **Bibliotecário**  
+  <img src="./docs/prototipos/img_mobile/bibliotecario.jpg" alt="Dashboard do Bibliotecário – Mobile" width="250"/>
 
-- **Esqueci minha senha**
-![Esqueci minha senha – Mobile](docs/prototipos/img_mobile/forgot-password.jpg)
+---
 
-- **Cadastro** *(se aplicável)*
-![Cadastro – Mobile](docs/prototipos/img_mobile/register.jpg)
+#### 🔑 Telas de Acesso – Mobile
+
+- **Login**  
+  <img src="./docs/prototipos/img_mobile/login.jpg" alt="Login – Mobile" width="250"/>
+
+- **Esqueci minha senha**  
+  <img src="./docs/prototipos/img_mobile/forgot-password.jpg" alt="Esqueci minha senha – Mobile" width="250"/>
+
+- **Cadastro**  
+  <img src="./docs/prototipos/img_mobile/register.jpg" alt="Cadastro – Mobile" width="250"/>
 
 ---
 
