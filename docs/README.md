@@ -6,7 +6,7 @@ Esta pasta contém toda a documentação do sistema **UniLibris**, incluindo dia
 
 ## 🗂 Estrutura da pasta
 
-- `prototipos/` → Pasta para protótipos de UI/UX (wireframes, mockups, diagramas de fluxo).
+- `prototipos/` → Pasta para protótipos de UI/UX (wireframes e mockups).
 - `requirements/non-functional.md` → Requisitos Não Funcionais.
 - `uml/` → Pasta para diagramas UML.
 
@@ -14,9 +14,9 @@ Esta pasta contém toda a documentação do sistema **UniLibris**, incluindo dia
 
 ## 📖 Como usar
 
-1. Abra os arquivos `.png` para visualizar os diagramas.  
-2. Leia o arquivo `backlog.md` para consultar as histórias de usuário, tarefas planejadas e prioridades.  
-3. Consulte a pasta `prototipos/` para ver as interfaces planejadas e diagramas de fluxo do sistema.  
+1. Consulte a pasta `prototipos/` para ver as interfaces planejadas.
+2. Consulte `requirements/non-functional.md` para ver os Requisitos Não Funcionais.
+3. Consulte a pasta `uml/` para ver os diagramas da UML.
 
 ---
 
