@@ -86,32 +86,9 @@ unilibris/
 
 ---
 
-## 📝 História de usuário
-- **Como aluno da Fatec**, quero **logar apenas com meu e-mail @fatec.sp.gov.br** para **acessar o UniLibris**.  
-- **Como aluno da Fatec**, quero **criar uma conta com meu e-mail institucional** para **ter acesso ao UniLibris**.  
-- **Como aluno logado**, quero **buscar livros por título, autor ou categoria** para **encontrar materiais disponíveis**.  
-- **Como aluno logado**, quero **solicitar empréstimo de um livro disponível** para **retirar livros do acervo**, respeitando regras de limite e disponibilidade.  
-- **Como aluno logado**, quero **visualizar meu histórico com status e datas** para **acompanhar minhas retiradas e devoluções**.  
-- **Como aluno**, quero **receber alertas sobre devoluções próximas ou atrasadas** para **não perder prazos**.  
-- **Como bibliotecário**, quero **registrar empréstimos de alunos** para **gerenciar o acervo da biblioteca**.  
-- **Como bibliotecário**, quero **cadastrar, editar e remover livros do acervo** para **manter o acervo atualizado**, evitando duplicidade de ISBN e remoção de livros emprestados.  
-- **Como bibliotecário**, quero **gerar relatórios de livros mais emprestados e pendentes**, além de **exportá-los em PDF**, para **analisar o uso do acervo**.  
-- **Como usuário cadastrado**, quero **redefinir minha senha via link no e-mail institucional** para **recuperar acesso ao UniLibris**.
-
----
-
-## 🧪 Testes e BDD
+## 🧪 História de usuário e Gherkin
 Este projeto adota **Behavior Driven Development (BDD)**.
-Os cenários estão descritos em https://github.com/users/FPCxD/projects/1.
-
-Exemplo:
-```
-Funcionalidade: Login com e-mail institucional
-  Cenário: Login válido como aluno
-    Dado que estou na página de login
-    Quando informo o e-mail "aluno@fatec.sp.gov.br" e a senha "SenhaValida123"
-    Então devo ser autenticado com sucesso
-```
+As histórias de usuário e os cenários estão descritos em https://github.com/users/FPCxD/projects/1.
 
 ---
 
