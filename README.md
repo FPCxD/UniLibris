@@ -119,6 +119,8 @@ Funcionalidade: Login com e-mail institucional
 - Diagramas UML (casos de uso, sequência, fluxogramas)  
 - Protótipo de interface
 
-📌 Status do Projeto
+---
 
-🚧 Em desenvolvimento — ainda em fase de planejamento e prototipagem.
+## 📌 Status do Projeto
+
+🚧 Em desenvolvimento — em fase de prototipagem.
