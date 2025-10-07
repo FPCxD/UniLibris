@@ -147,6 +147,11 @@ Os requisitos não funcionais estão descritos em [Requisitos Não Funcionais](d
   <img src="./docs/prototipos/img_desktop/bibliotecario.png" alt="Dashboard do Bibliotecário – Desktop" width="850"/>
 </p>
 
+- **Acervo (bibliotecário)**
+<p align="center"> 
+  <img src="./docs/prototipos/img_desktop/acervo.png" alt="Dashboard de acervo – Desktop" width="850"/>
+</p>
+
 ---
 
 #### 🔑 Telas de Acesso – Desktop
