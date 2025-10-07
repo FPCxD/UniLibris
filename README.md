@@ -266,7 +266,7 @@ Os requisitos não funcionais estão descritos em [Requisitos Não Funcionais](d
 
 - **Logout**
 <p align="center">
-  <img src="./docs/prototipos/img_mobile/logout.jpg" alt="Logout – Mobile" width="850"/>
+  <img src="./docs/prototipos/img_mobile/logout.jpg" alt="Logout – Mobile" width="250"/>
 </p>
 
 ---
