@@ -137,47 +137,67 @@ Os requisitos não funcionais estão descritos em [Requisitos Não Funcionais](d
 ### Protótipo de interface (UI/UX)
 #### 🖥️ Dashboards – Desktop
 
-- **Aluno**  
+- **Aluno**
+<p align="center">
   <img src="./docs/prototipos/img_desktop/aluno.png" alt="Dashboard do Aluno – Desktop" width="850"/>
+</p>
 
-- **Bibliotecário**  
+- **Bibliotecário**
+<p align="center"> 
   <img src="./docs/prototipos/img_desktop/bibliotecario.png" alt="Dashboard do Bibliotecário – Desktop" width="850"/>
+</p>
 
 ---
 
 #### 🔑 Telas de Acesso – Desktop
 
-- **Login**  
+- **Login**
+<p align="center"> 
   <img src="./docs/prototipos/img_desktop/login.png" alt="Login – Desktop" width="850"/>
+</p>
 
-- **Recuperar senha**  
+- **Recuperar senha**
+<p align="center"> 
   <img src="./docs/prototipos/img_desktop/forgot-password.png" alt="Esqueci minha senha – Desktop" width="850"/>
+</p>
 
-- **Cadastro**  
+- **Cadastro**
+<p align="center">
   <img src="./docs/prototipos/img_desktop/register.png" alt="Cadastro – Desktop" width="850"/>
+</p>
 
 ---
 
 #### 📱 Dashboards – Mobile
 
-- **Aluno**  
+- **Aluno**
+<p align="center">
   <img src="./docs/prototipos/img_mobile/aluno.jpg" alt="Dashboard do Aluno – Mobile" width="250"/>
+</p>
 
-- **Bibliotecário**  
+- **Bibliotecário**
+<p align="center">  
   <img src="./docs/prototipos/img_mobile/bibliotecario.jpg" alt="Dashboard do Bibliotecário – Mobile" width="250"/>
+</p>
 
 ---
 
 #### 🔑 Telas de Acesso – Mobile
 
-- **Login**  
+- **Login**
+<p align="center">
   <img src="./docs/prototipos/img_mobile/login.jpg" alt="Login – Mobile" width="250"/>
+</p>
 
-- **Recuperar senha**  
+- **Recuperar senha**
+<p align="center"> 
   <img src="./docs/prototipos/img_mobile/forgot-password.jpg" alt="Esqueci minha senha – Mobile" width="250"/>
+</p>
 
-- **Cadastro**  
+- **Cadastro**
+<p align="center">
   <img src="./docs/prototipos/img_mobile/register.jpg" alt="Cadastro – Mobile" width="250"/>
+</p>
 
 ---
 
