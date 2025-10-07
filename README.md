@@ -63,6 +63,7 @@ unilibris/
 |   |   │   ├── forgot-password.png
 |   |   │   ├── login.png
 |   |   │   ├── acervo.png
+|   |   │   ├── emprestimos.png
 |   |   │   └── register.png
 |   |   ├── img_mobile/                  # Dashboards visuais (mobile)
 |   |   │   ├── aluno.jpg
@@ -70,6 +71,7 @@ unilibris/
 |   |   │   ├── forgot-password.jpg
 |   |   │   ├── login.jpg
 |   |   │   ├── acervo.jpg
+|   |   │   ├── emprestimos.jpg
 |   |   │   └── register.jpg
 |   |   └── README.md
 │   ├── requirements/
@@ -151,7 +153,12 @@ Os requisitos não funcionais estão descritos em [Requisitos Não Funcionais](d
 
 - **Acervo (bibliotecário)**
 <p align="center"> 
-  <img src="./docs/prototipos/img_desktop/acervo.png" alt="Dashboard de acervo – Desktop" width="850"/>
+  <img src="./docs/prototipos/img_desktop/acervo.png" alt="Dashboard de acervo (bibliotecário) – Desktop" width="850"/>
+</p>
+
+- **Empréstimos (bibliotecário)**
+<p align="center"> 
+  <img src="./docs/prototipos/img_desktop/emprestimos.png" alt="Dashboard de empréstimos (bibliotecário) – Desktop" width="850"/>
 </p>
 
 ---
@@ -189,7 +196,12 @@ Os requisitos não funcionais estão descritos em [Requisitos Não Funcionais](d
 
 - **Acervo (bibliotecário)**
 <p align="center"> 
-  <img src="./docs/prototipos/img_mobile/acervo.jpg" alt="Dashboard de acervo – Mobile" width="250"/>
+  <img src="./docs/prototipos/img_mobile/acervo.jpg" alt="Dashboard de acervo (bibliotecário) – Mobile" width="250"/>
+</p>
+
+- **Empréstimos (bibliotecário)**
+<p align="center"> 
+  <img src="./docs/prototipos/img_desktop/emprestimos.jpg" alt="Dashboard de empréstimos (bibliotecário) – Mobile" width="250"/>
 </p>
 
 ---
