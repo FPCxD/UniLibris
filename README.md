@@ -147,9 +147,9 @@ Os requisitos não funcionais estão descritos em [Requisitos Não Funcionais](d
 ### Protótipo de interface (UI/UX)
 #### 🖥️ Dashboards – Desktop
 
-- **Aluno**
+- **Dashboard (aluno)**
 <p align="center">
-  <img src="./docs/prototipos/img_desktop/aluno.png" alt="Dashboard do Aluno – Desktop" width="850"/>
+  <img src="./docs/prototipos/img_desktop/dashboard_aluno.png" alt="Dashboard do Aluno – Desktop" width="850"/>
 </p>
 
 - **Dashboard (bibliotecário)**
@@ -210,9 +210,9 @@ Os requisitos não funcionais estão descritos em [Requisitos Não Funcionais](d
 
 #### 📱 Dashboards – Mobile
 
-- **Aluno**
+- **Dashboard (aluno)**
 <p align="center">
-  <img src="./docs/prototipos/img_mobile/aluno.jpg" alt="Dashboard do Aluno – Mobile" width="250"/>
+  <img src="./docs/prototipos/img_mobile/dashboard_aluno.jpg" alt="Dashboard do Aluno – Mobile" width="250"/>
 </p>
 
 - **Dashboard (bibliotecário)**
