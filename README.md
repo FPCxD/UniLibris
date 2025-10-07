@@ -108,22 +108,30 @@ Os requisitos não funcionais estão descritos em [Requisitos Não Funcionais](d
 ## 🎨 Protótipos
 ### Diagramas UML (casos de uso, fluxograma e sequência)
 
-- Casos de uso  
+- **Casos de uso**  
 <p align="center">
-  <img src="docs/uml/casos_de_uso_.png" alt="Diagrama de Casos de Uso" width="450"/>
+  <img src="docs/uml/casos_de_uso_.png" alt="Diagrama de Casos de Uso" width="480"/>
 </p>
 
-- Fluxograma  
-![Fluxograma Geral](docs/uml/fluxograma.png)
+- **Fluxograma**  
+<p align="center">
+  <img src="docs/uml/fluxograma.png" alt="Fluxograma Geral" width="480"/>
+</p>
 
-- Diagrama de sequência (Aluno)  
-![Diagrama de Sequência - Aluno](docs/uml/sequencia_aluno.png)
+- **Diagrama de sequência (Aluno)**  
+<p align="center">
+  <img src="docs/uml/sequencia_aluno.png" alt="Diagrama de Sequência - Aluno" width="700"/>
+</p>
 
-- Diagrama de sequência (Bibliotecário)  
-![Diagrama de Sequência - Bibliotecário](docs/uml/sequencia_bibliotecario.png)
+- **Diagrama de sequência (Bibliotecário)**  
+<p align="center">
+  <img src="docs/uml/sequencia_bibliotecario.png" alt="Diagrama de Sequência - Bibliotecário" width="700"/>
+</p>
 
-- Diagrama de sequência (Login)  
-![Diagrama de Sequência - Login](docs/uml/sequencia_login.png)
+- **Diagrama de sequência (Login)**  
+<p align="center">
+  <img src="docs/uml/sequencia_login.png" alt="Diagrama de Sequência - Login" width="700"/>
+</p>
 
   
 ### Protótipo de interface (UI/UX)
