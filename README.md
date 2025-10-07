@@ -185,6 +185,11 @@ Os requisitos não funcionais estão descritos em [Requisitos Não Funcionais](d
   <img src="./docs/prototipos/img_mobile/bibliotecario.jpg" alt="Dashboard do Bibliotecário – Mobile" width="250"/>
 </p>
 
+- **Acervo (bibliotecário)**
+<p align="center"> 
+  <img src="./docs/prototipos/img_mobile/acervo.jpg" alt="Dashboard de acervo – Mobile" width="850"/>
+</p>
+
 ---
 
 #### 🔑 Telas de Acesso – Mobile
