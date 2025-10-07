@@ -213,7 +213,7 @@ Os requisitos não funcionais estão descritos em [Requisitos Não Funcionais](d
 
 - **Relatórios (bibliotecário)**
 <p align="center"> 
-  <img src="./docs/prototipos/img_desktop/relatorios.jpg" alt="Dashboard de relatórios (bibliotecário) – Mobile" width="250"/>
+  <img src="./docs/prototipos/img_mobile/relatorios.jpg" alt="Dashboard de relatórios (bibliotecário) – Mobile" width="250"/>
 </p>
 
 ---
