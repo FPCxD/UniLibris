@@ -62,13 +62,15 @@ unilibris/
 |   |   │   ├── bibliotecario.png
 |   |   │   ├── forgot-password.png
 |   |   │   ├── login.png
+|   |   │   ├── acervo.png
 |   |   │   └── register.png
 |   |   ├── img_mobile/                  # Dashboards visuais (mobile)
-|   |   │   ├── aluno.png
-|   |   │   ├── bibliotecario.png
-|   |   │   ├── forgot-password.png
-|   |   │   ├── login.png
-|   |   │   └── register.png
+|   |   │   ├── aluno.jpg
+|   |   │   ├── bibliotecario.jpg
+|   |   │   ├── forgot-password.jpg
+|   |   │   ├── login.jpg
+|   |   │   ├── acervo.jpg
+|   |   │   └── register.jpg
 |   |   └── README.md
 │   ├── requirements/
 |   |   └── non-functional.md            # Requisitos Não Funcionais 
