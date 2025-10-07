@@ -175,6 +175,11 @@ Os requisitos não funcionais estão descritos em [Requisitos Não Funcionais](d
   <img src="./docs/prototipos/img_desktop/usuarios.png" alt="Dashboard de usuários (bibliotecário) – Desktop" width="850"/>
 </p>
 
+- **Notificações (bibliotecário)**
+<p align="center"> 
+  <img src="./docs/prototipos/img_desktop/notificacoes.png" alt="Dashboard de notificações (bibliotecário) – Desktop" width="850"/>
+</p>
+
 ---
 
 #### 🔑 Telas de Acesso – Desktop
@@ -226,6 +231,11 @@ Os requisitos não funcionais estão descritos em [Requisitos Não Funcionais](d
 - **Usuários (bibliotecário)**
 <p align="center"> 
   <img src="./docs/prototipos/img_mobile/usuarios.jpg" alt="Dashboard de usuários (bibliotecário) – Mobile" width="250"/>
+</p>
+
+- **Notificações (bibliotecário)**
+<p align="center"> 
+  <img src="./docs/prototipos/img_mobile/notificacoes.jpg" alt="Dashboard de notificações (bibliotecário) – Mobile" width="250"/>
 </p>
 
 ---
