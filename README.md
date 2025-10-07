@@ -59,7 +59,6 @@ unilibris/
 |   |   ├── wireframe-bibliotecario.md   # Dashboard do bibliotecário
 |   |   ├── img_desktop/                 # Dashboards visuais (desktop)
 |   |   │   ├── aluno.png
-|   |   │   ├── bibliotecario.png
 |   |   │   ├── forgot-password.png
 |   |   │   ├── login.png
 |   |   │   ├── acervo.png
@@ -70,7 +69,6 @@ unilibris/
 |   |   │   └── register.png
 |   |   ├── img_mobile/                  # Dashboards visuais (mobile)
 |   |   │   ├── aluno.jpg
-|   |   │   ├── bibliotecario.jpg
 |   |   │   ├── forgot-password.jpg
 |   |   │   ├── login.jpg
 |   |   │   ├── acervo.jpg
