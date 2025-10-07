@@ -110,7 +110,7 @@ Os requisitos não funcionais estão descritos em [Requisitos Não Funcionais](d
 
 - Casos de uso  
 <p align="center">
-  <img src="docs/uml/casos_de_uso_.png" alt="Diagrama de Casos de Uso" width="600"/>
+  <img src="docs/uml/casos_de_uso_.png" alt="Diagrama de Casos de Uso" width="450"/>
 </p>
 
 - Fluxograma  
