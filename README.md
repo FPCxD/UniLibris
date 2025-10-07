@@ -187,7 +187,7 @@ Os requisitos não funcionais estão descritos em [Requisitos Não Funcionais](d
 
 - **Acervo (bibliotecário)**
 <p align="center"> 
-  <img src="./docs/prototipos/img_mobile/acervo.jpg" alt="Dashboard de acervo – Mobile" width="850"/>
+  <img src="./docs/prototipos/img_mobile/acervo.jpg" alt="Dashboard de acervo – Mobile" width="250"/>
 </p>
 
 ---
