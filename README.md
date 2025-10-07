@@ -66,6 +66,7 @@ unilibris/
 |   |   │   ├── emprestimos.png
 |   |   │   ├── relatorios_.png
 |   |   │   ├── usuarios.png
+|   |   │   ├── dashboard_bibliotecario.png
 |   |   │   └── register.png
 |   |   ├── img_mobile/                  # Dashboards visuais (mobile)
 |   |   │   ├── aluno.jpg
@@ -76,6 +77,7 @@ unilibris/
 |   |   │   ├── emprestimos.jpg
 |   |   │   ├── relatorios_.jpg
 |   |   │   ├── usuarios.jpg
+|   |   │   ├── dashboard_bibliotecario.jpg
 |   |   │   └── register.jpg
 |   |   └── README.md
 │   ├── requirements/
@@ -150,9 +152,9 @@ Os requisitos não funcionais estão descritos em [Requisitos Não Funcionais](d
   <img src="./docs/prototipos/img_desktop/aluno.png" alt="Dashboard do Aluno – Desktop" width="850"/>
 </p>
 
-- **Bibliotecário**
-<p align="center"> 
-  <img src="./docs/prototipos/img_desktop/bibliotecario.png" alt="Dashboard do Bibliotecário – Desktop" width="850"/>
+- **Dashboard (bibliotecário)**
+<p align="center">  
+  <img src="./docs/prototipos/img_desktop/dashboard_bibliotecario.png" alt="Dashboard do Bibliotecário – Desktop" width="850"/>
 </p>
 
 - **Acervo (bibliotecário)**
@@ -208,9 +210,9 @@ Os requisitos não funcionais estão descritos em [Requisitos Não Funcionais](d
   <img src="./docs/prototipos/img_mobile/aluno.jpg" alt="Dashboard do Aluno – Mobile" width="250"/>
 </p>
 
-- **Bibliotecário**
+- **Dashboard (bibliotecário)**
 <p align="center">  
-  <img src="./docs/prototipos/img_mobile/bibliotecario.jpg" alt="Dashboard do Bibliotecário – Mobile" width="250"/>
+  <img src="./docs/prototipos/img_mobile/dashboard_bibliotecario.jpg" alt="Dashboard do Bibliotecário – Mobile" width="250"/>
 </p>
 
 - **Acervo (bibliotecário)**
