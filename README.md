@@ -65,6 +65,7 @@ unilibris/
 |   |   │   ├── acervo.png
 |   |   │   ├── emprestimos.png
 |   |   │   ├── relatorios_.png
+|   |   │   ├── usuarios.png
 |   |   │   └── register.png
 |   |   ├── img_mobile/                  # Dashboards visuais (mobile)
 |   |   │   ├── aluno.jpg
@@ -74,6 +75,7 @@ unilibris/
 |   |   │   ├── acervo.jpg
 |   |   │   ├── emprestimos.jpg
 |   |   │   ├── relatorios_.jpg
+|   |   │   ├── usuarios.jpg
 |   |   │   └── register.jpg
 |   |   └── README.md
 │   ├── requirements/
@@ -168,6 +170,11 @@ Os requisitos não funcionais estão descritos em [Requisitos Não Funcionais](d
   <img src="./docs/prototipos/img_desktop/relatorios_.png" alt="Dashboard de relatórios (bibliotecário) – Desktop" width="850"/>
 </p>
 
+- **Usuários (bibliotecário)**
+<p align="center"> 
+  <img src="./docs/prototipos/img_desktop/usuarios.png" alt="Dashboard de usuários (bibliotecário) – Desktop" width="850"/>
+</p>
+
 ---
 
 #### 🔑 Telas de Acesso – Desktop
@@ -214,6 +221,11 @@ Os requisitos não funcionais estão descritos em [Requisitos Não Funcionais](d
 - **Relatórios (bibliotecário)**
 <p align="center"> 
   <img src="./docs/prototipos/img_mobile/relatorios_.jpg" alt="Dashboard de relatórios (bibliotecário) – Mobile" width="250"/>
+</p>
+
+- **Usuários (bibliotecário)**
+<p align="center"> 
+  <img src="./docs/prototipos/img_mobile/usuarios.jpg" alt="Dashboard de usuários (bibliotecário) – Mobile" width="850"/>
 </p>
 
 ---
