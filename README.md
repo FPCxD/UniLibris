@@ -225,7 +225,7 @@ Os requisitos não funcionais estão descritos em [Requisitos Não Funcionais](d
 
 - **Usuários (bibliotecário)**
 <p align="center"> 
-  <img src="./docs/prototipos/img_mobile/usuarios.jpg" alt="Dashboard de usuários (bibliotecário) – Mobile" width="850"/>
+  <img src="./docs/prototipos/img_mobile/usuarios.jpg" alt="Dashboard de usuários (bibliotecário) – Mobile" width="250"/>
 </p>
 
 ---
