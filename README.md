@@ -76,7 +76,7 @@ unilibris/
 |   |   │   ├── emprestimos.jpg
 |   |   │   ├── relatorios_.jpg
 |   |   │   ├── usuarios.jpg
-|   |   │   ├── dashboard_bibliotecario.jpg
+|   |   │   ├── dashboard_bibliotecario_.jpg
 |   |   │   ├── logout.jpg
 |   |   │   └── register.jpg
 |   |   └── README.md
@@ -217,7 +217,7 @@ Os requisitos não funcionais estão descritos em [Requisitos Não Funcionais](d
 
 - **Dashboard (bibliotecário)**
 <p align="center">  
-  <img src="./docs/prototipos/img_mobile/dashboard_bibliotecario.jpg" alt="Dashboard do Bibliotecário – Mobile" width="250"/>
+  <img src="./docs/prototipos/img_mobile/dashboard_bibliotecario_.jpg" alt="Dashboard do Bibliotecário – Mobile" width="250"/>
 </p>
 
 - **Acervo (bibliotecário)**
