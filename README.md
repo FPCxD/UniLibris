@@ -58,7 +58,7 @@ unilibris/
 |   |   ├── wireframe-aluno.md           # Dashboard do aluno
 |   |   ├── wireframe-bibliotecario.md   # Dashboard do bibliotecário
 |   |   ├── img_desktop/                 # Dashboards visuais (desktop)
-|   |   │   ├── aluno.png
+|   |   │   ├── dashboard_aluno_.png
 |   |   │   ├── forgot-password.png
 |   |   │   ├── login.png
 |   |   │   ├── acervo.png
@@ -69,7 +69,7 @@ unilibris/
 |   |   │   ├── logout.png
 |   |   │   └── register.png
 |   |   ├── img_mobile/                  # Dashboards visuais (mobile)
-|   |   │   ├── aluno.jpg
+|   |   │   ├── dashboard_aluno-.jpg
 |   |   │   ├── forgot-password.jpg
 |   |   │   ├── login.jpg
 |   |   │   ├── acervo.jpg
@@ -149,7 +149,7 @@ Os requisitos não funcionais estão descritos em [Requisitos Não Funcionais](d
 
 - **Dashboard (aluno)**
 <p align="center">
-  <img src="./docs/prototipos/img_desktop/dashboard_aluno.png" alt="Dashboard do Aluno – Desktop" width="850"/>
+  <img src="./docs/prototipos/img_desktop/dashboard_aluno_.png" alt="Dashboard do Aluno – Desktop" width="850"/>
 </p>
 
 - **Dashboard (bibliotecário)**
@@ -212,7 +212,7 @@ Os requisitos não funcionais estão descritos em [Requisitos Não Funcionais](d
 
 - **Dashboard (aluno)**
 <p align="center">
-  <img src="./docs/prototipos/img_mobile/dashboard_aluno.jpg" alt="Dashboard do Aluno – Mobile" width="250"/>
+  <img src="./docs/prototipos/img_mobile/dashboard_aluno-.jpg" alt="Dashboard do Aluno – Mobile" width="250"/>
 </p>
 
 - **Dashboard (bibliotecário)**
