@@ -67,6 +67,7 @@ unilibris/
 |   |   │   ├── relatorios_.png
 |   |   │   ├── usuarios-.png
 |   |   │   ├── dashboard_bibliotecario.png
+|   |   │   ├── notificacoes.png
 |   |   │   ├── logout.png
 |   |   │   └── register-.png
 |   |   ├── img_mobile/                  # Dashboards visuais (mobile)
@@ -79,6 +80,7 @@ unilibris/
 |   |   │   ├── relatorios_.jpg
 |   |   │   ├── usuarios-.jpg
 |   |   │   ├── dashboard_bibliotecario_.jpg
+|   |   │   ├── notificacoes.jpg
 |   |   │   ├── logout.jpg
 |   |   │   └── register-.jpg
 |   |   └── README.md
