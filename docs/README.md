@@ -9,6 +9,7 @@ Esta pasta contém toda a documentação do sistema **UniLibris**, incluindo dia
 - `prototipos/` → Pasta para protótipos de UI/UX (wireframes e mockups).
 - `requirements/non-functional.md` → Requisitos Não Funcionais.
 - `uml/` → Pasta para diagramas UML.
+- `Relatorio_Visita_Biblioteca_Fatec_A.pdf` → Arquivo PDF referente às constatações obtidas durante a visita a biblioteca
 
 ---
 
