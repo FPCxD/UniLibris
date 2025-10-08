@@ -120,9 +120,13 @@ Os requisitos não funcionais estão descritos em [Requisitos Não Funcionais](d
 ---
 
 ## 🎨 Wireframes
-### Wireframes ()
+### Wireframes (dashboard aluno e dashboard bibliotecário)
 
-- ****
+- **Dashboard Aluno**
+O wireframe está disponível em [Dashboard Aluno - wireframe](docs/prototipos/wireframe-bibliotecario.md)
+
+- **Dashboard Bibliotecário**
+O wireframe está disponível em [Dashboard Aluno - wireframe](docs/prototipos/wireframe-aluno.md)
   
 ---
 
