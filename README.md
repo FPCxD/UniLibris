@@ -123,10 +123,10 @@ Os requisitos não funcionais estão descritos em [Requisitos Não Funcionais](d
 ### Wireframes (dashboard aluno e dashboard bibliotecário)
 
 - **Dashboard Aluno**
-O wireframe está disponível em [Dashboard Aluno - wireframe](docs/prototipos/wireframe-bibliotecario.md)
+O wireframe está disponível em [Dashboard Aluno - wireframe](docs/prototipos/wireframe-aluno.md)
 
 - **Dashboard Bibliotecário**
-O wireframe está disponível em [Dashboard Aluno - wireframe](docs/prototipos/wireframe-aluno.md)
+O wireframe está disponível em [Dashboard Bibliotecário - wireframe](docs/prototipos/wireframe-bibliotecario.md)
   
 ---
 
