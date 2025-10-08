@@ -22,20 +22,35 @@ Assim, **UniLibris** pode ser interpretado como **“Livros da Universidade”**
 
 ## 🚀 Tecnologias Utilizadas (planejadas)
 
-- **Frontend:** [Next.js](https://nextjs.org/) (React) + [Tailwind CSS](https://tailwindcss.com/)
-- **Backend:** [Node.js](https://nodejs.org/) + [Express](https://expressjs.com/)
-- **Banco de Dados:** [PostgreSQL](https://www.postgresql.org/) (gerenciado: [Neon](https://neon.tech/) ou [Supabase](https://supabase.com/))
-- **ORM/Schema:** [Prisma](https://www.prisma.io/)
-- **Validação:** [Zod](https://zod.dev/)
-- **Autenticação:** 
-  - JWT (senhas hasheadas com **Argon2id**) → [Argon2](https://github.com/ranisalt/node-argon2)  
-  - OAuth via [Microsoft Entra ID](https://www.microsoft.com/pt-br/security/business/identity-access/microsoft-entra-id) (restrito a `@fatec.sp.gov.br`)
-- **E-mails transacionais:** [SendGrid](https://sendgrid.com/) (free tier) ou SMTP institucional
-- **Hospedagem (custo baixo/grátis):**
-  - **Frontend:** [Vercel](https://vercel.com/) (Free)
-  - **Backend (Express):** [Railway](https://railway.app/) (Free) ou [Render](https://render.com/) (Free)
-  - **PostgreSQL:** [Neon](https://neon.tech/) (Free) ou [Supabase](https://supabase.com/) (Free)
-- **Observabilidade:** [Sentry](https://sentry.io/welcome/)
+### Frontend
+- **Framework:** Next.js (React)
+- **Estilo:** Tailwind CSS
+- **Hospedagem:** [Vercel](https://vercel.com) (Free Tier)
+
+### Backend
+- **Ambiente:** Node.js + Express  
+- **ORM / Schema:** Prisma  
+- **Validação de dados:** Zod  
+- **Hospedagem:** [Railway](https://railway.app) (Free) ou [Render](https://render.com) (Free)
+
+### Banco de Dados
+- **Sistema:** PostgreSQL  
+- **Serviços Gerenciados:** [Neon](https://neon.tech) ou [Supabase](https://supabase.com) (Free Tier)
+
+### Autenticação e Segurança
+- **JWT** com senhas hasheadas via **Argon2id (Argon2)**  
+- **OAuth** via **Microsoft Entra ID**  
+  - Restringido a e-mails institucionais:  
+    - `@fatec.sp.gov.br`  
+    - `@cps.sp.gov.br`
+
+### Comunicação e E-mails
+- **Envio de e-mails transacionais:**  
+  - [SendGrid](https://sendgrid.com) (Free Tier)  
+  - ou **SMTP institucional Microsoft 365**
+
+### Observabilidade e Logs
+- **Monitoramento de erros e performance:** [Sentry](https://sentry.io)
 
 ---
 
