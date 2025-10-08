@@ -65,7 +65,7 @@ unilibris/
 |   |   │   ├── acervo.png
 |   |   │   ├── emprestimos.png
 |   |   │   ├── relatorios_.png
-|   |   │   ├── usuarios.png
+|   |   │   ├── usuarios-.png
 |   |   │   ├── dashboard_bibliotecario.png
 |   |   │   ├── logout.png
 |   |   │   └── register.png
@@ -77,7 +77,7 @@ unilibris/
 |   |   │   ├── acervo.jpg
 |   |   │   ├── emprestimos.jpg
 |   |   │   ├── relatorios_.jpg
-|   |   │   ├── usuarios.jpg
+|   |   │   ├── usuarios-.jpg
 |   |   │   ├── dashboard_bibliotecario_.jpg
 |   |   │   ├── logout.jpg
 |   |   │   └── register.jpg
@@ -181,7 +181,7 @@ Os requisitos não funcionais estão descritos em [Requisitos Não Funcionais](d
 
 - **Usuários (bibliotecário)**
 <p align="center"> 
-  <img src="./docs/prototipos/img_desktop/usuarios.png" alt="Dashboard de usuários (bibliotecário) – Desktop" width="850"/>
+  <img src="./docs/prototipos/img_desktop/usuarios-.png" alt="Dashboard de usuários (bibliotecário) – Desktop" width="850"/>
 </p>
 
 - **Notificações (bibliotecário)**
@@ -249,7 +249,7 @@ Os requisitos não funcionais estão descritos em [Requisitos Não Funcionais](d
 
 - **Usuários (bibliotecário)**
 <p align="center"> 
-  <img src="./docs/prototipos/img_mobile/usuarios.jpg" alt="Dashboard de usuários (bibliotecário) – Mobile" width="250"/>
+  <img src="./docs/prototipos/img_mobile/usuarios-.jpg" alt="Dashboard de usuários (bibliotecário) – Mobile" width="250"/>
 </p>
 
 - **Notificações (bibliotecário)**
