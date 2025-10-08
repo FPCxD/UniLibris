@@ -161,7 +161,7 @@ O wireframe está disponível em [Dashboard Bibliotecário - wireframe](docs/pro
 
 - **Fluxograma**  
 <p align="center">
-  <img src="docs/uml/fluxograma-.png" alt="Fluxograma Geral" width="480"/>
+  <img src="docs/uml/fluxograma-.png" alt="Fluxograma Geral" width="700"/>
 </p>
 
 - **Diagrama de sequência (Aluno)**  
