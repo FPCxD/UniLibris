@@ -103,11 +103,11 @@ unilibris/
 │   ├── requirements/
 |   |   └── non-functional.md            # Requisitos Não Funcionais 
 |   └── uml/                             # Pasta para diagramas UML
-|       ├── fluxograma.png               # Fluxograma geral do sistema, mostrando o fluxo de uso entre alunos e bibliotecários
+|       ├── fluxograma-.png               # Fluxograma geral do sistema, mostrando o fluxo de uso entre alunos e bibliotecários
 |       ├── casos_de_uso_.png             # Diagrama de casos de uso UML, ilustrando os atores e funcionalidades principais
-|       ├── sequencia_aluno.png          # Diagrama de sequência UML mostrando a interação de um aluno consultando livros
-|       ├── sequencia_bibliotecario.png  # Diagrama de sequência UML mostrando a interação de um bibliotecário cadastrando livros
-|       └── sequencia_login.png          # Diagrama de sequência UML mostrando a interação de login com validação de role    
+|       ├── sequencia-aluno.png          # Diagrama de sequência UML mostrando a interação de um aluno consultando livros
+|       ├── sequencia-bibliotecario.png  # Diagrama de sequência UML mostrando a interação de um bibliotecário cadastrando livros
+|       └── sequencia-login.png          # Diagrama de sequência UML mostrando a interação de login com validação de role    
 |
 └── README.md                            # Apresentação geral do projeto
 ```
@@ -161,22 +161,22 @@ O wireframe está disponível em [Dashboard Bibliotecário - wireframe](docs/pro
 
 - **Fluxograma**  
 <p align="center">
-  <img src="docs/uml/fluxograma.png" alt="Fluxograma Geral" width="480"/>
+  <img src="docs/uml/fluxograma-.png" alt="Fluxograma Geral" width="480"/>
 </p>
 
 - **Diagrama de sequência (Aluno)**  
 <p align="center">
-  <img src="docs/uml/sequencia_aluno.png" alt="Diagrama de Sequência - Aluno" width="700"/>
+  <img src="docs/uml/sequencia-aluno.png" alt="Diagrama de Sequência - Aluno" width="700"/>
 </p>
 
 - **Diagrama de sequência (Bibliotecário)**  
 <p align="center">
-  <img src="docs/uml/sequencia_bibliotecario.png" alt="Diagrama de Sequência - Bibliotecário" width="700"/>
+  <img src="docs/uml/sequencia-bibliotecario.png" alt="Diagrama de Sequência - Bibliotecário" width="700"/>
 </p>
 
 - **Diagrama de sequência (Login)**  
 <p align="center">
-  <img src="docs/uml/sequencia_login.png" alt="Diagrama de Sequência - Login" width="700"/>
+  <img src="docs/uml/sequencia-login.png" alt="Diagrama de Sequência - Login" width="700"/>
 </p>
 
   
