@@ -119,7 +119,7 @@ Os requisitos não funcionais estão descritos em [Requisitos Não Funcionais](d
 
 ---
 
-## 🎨 Wireframes
+## 📝 Wireframes
 ### Wireframes (dashboard aluno e dashboard bibliotecário)
 
 - **Dashboard Aluno**
