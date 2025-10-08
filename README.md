@@ -98,6 +98,7 @@ unilibris/
 |   |   │   ├── notificacoes.jpg
 |   |   │   ├── logout.jpg
 |   |   │   └── register-.jpg
+|   │   ├── Relatorio_Visita_Biblioteca_Fatec_A.pdf
 |   |   └── README.md
 │   ├── requirements/
 |   |   └── non-functional.md            # Requisitos Não Funcionais 
@@ -112,6 +113,9 @@ unilibris/
 ```
 
 ---
+
+## Relatório de constatações obtidas após a visita à biblioteca da FATEC
+[Relatório](docs/Relatorio_Visita_Biblioteca_Fatec_A.pdf)
 
 ## 🗂️ Funcionalidades Principais (planejadas)
 - [ ] Cadastro e administração do acervo de livros  
