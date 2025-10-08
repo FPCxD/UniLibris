@@ -68,7 +68,7 @@ unilibris/
 |   |   │   ├── usuarios-.png
 |   |   │   ├── dashboard_bibliotecario.png
 |   |   │   ├── logout.png
-|   |   │   └── register.png
+|   |   │   └── register-.png
 |   |   ├── img_mobile/                  # Dashboards visuais (mobile)
 |   |   │   ├── dashboard_aluno-.jpg
 |   |   │   ├── perfil_aluno.jpg
@@ -80,7 +80,7 @@ unilibris/
 |   |   │   ├── usuarios-.jpg
 |   |   │   ├── dashboard_bibliotecario_.jpg
 |   |   │   ├── logout.jpg
-|   |   │   └── register.jpg
+|   |   │   └── register-.jpg
 |   |   └── README.md
 │   ├── requirements/
 |   |   └── non-functional.md            # Requisitos Não Funcionais 
@@ -205,7 +205,7 @@ Os requisitos não funcionais estão descritos em [Requisitos Não Funcionais](d
 
 - **Cadastro**
 <p align="center">
-  <img src="./docs/prototipos/img_desktop/register.png" alt="Cadastro – Desktop" width="850"/>
+  <img src="./docs/prototipos/img_desktop/register-.png" alt="Cadastro – Desktop" width="850"/>
 </p>
 
 - **Logout**
@@ -273,7 +273,7 @@ Os requisitos não funcionais estão descritos em [Requisitos Não Funcionais](d
 
 - **Cadastro**
 <p align="center">
-  <img src="./docs/prototipos/img_mobile/register.jpg" alt="Cadastro – Mobile" width="250"/>
+  <img src="./docs/prototipos/img_mobile/register-.jpg" alt="Cadastro – Mobile" width="250"/>
 </p>
 
 - **Logout**
