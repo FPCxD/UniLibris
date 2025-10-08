@@ -117,6 +117,8 @@ unilibris/
 ## Relatório de constatações obtidas após a visita à biblioteca da FATEC
 [Relatório](docs/Relatorio_Visita_Biblioteca_Fatec_A.pdf)
 
+---
+
 ## 🗂️ Funcionalidades Principais (planejadas)
 - [ ] Cadastro e administração do acervo de livros  
 - [ ] Controle de empréstimos e devoluções  
