@@ -17,7 +17,7 @@
 4.  [Funcionalidades Principais](#-funcionalidades-principais)
 5.  [Relatório de Constatações](#relatório-de-constatações-obtidas-após-a-visita-à-biblioteca-da-fatec)
 6.  [Tecnologias Utilizadas (planejadas)](#-tecnologias-utilizadas-planejadas)
-7.  [Arquitetura e Atualizações](#-arquitetura-e-atualizações)
+7.  [Resumo da Arquitetura e Atualizações](#-resumo-da-arquitetura-e-atualizações)
 8.  [Estrutura de Pastas](#-estrutura-de-pastas)
 9.  [História de Usuário e Gherkin](#-história-de-usuário-e-gherkin)
 10. [Requisitos Não Funcionais](#-requisitos-não-funcionais)
@@ -126,7 +126,7 @@ Assim, **UniLibris** significa *“Livros da Universidade”* — simbolizando u
 
 ---
 
-## ⚙️ Arquitetura e Atualizações
+## ⚙️ Resumo da Arquitetura e Atualizações
 
 O **UniLibris** roda **100% dentro de contêineres Docker** — com **frontend**, **backend** e **banco de dados** isolados em serviços independentes, garantindo facilidade de deploy e portabilidade entre ambientes.
 
