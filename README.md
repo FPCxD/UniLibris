@@ -23,23 +23,27 @@ Assim, **UniLibris** pode ser interpretado como **“Livros da Universidade”**
 ## 🚀 Tecnologias Utilizadas (planejadas)
 
 ### Frontend
-- **Framework:** Next.js (React)
-- **Estilo:** Tailwind CSS
+- **Framework:** [Next.js](https://nextjs.org) (React)
+- **Estilo:** [Tailwind CSS](https://tailwindcss.com)
 - **Hospedagem:** [Vercel](https://vercel.com) (Free Tier)
+- **Empacotamento:** Docker (imagem `ghcr.io/fpcxd/unilibris-frontend`)
 
 ### Backend
 - **Ambiente:** Node.js + Express  
 - **ORM / Schema:** Prisma  
 - **Validação de dados:** Zod  
 - **Hospedagem:** [Railway](https://railway.app) (Free) ou [Render](https://render.com) (Free)
+- **Empacotamento:** Docker (imagem `ghcr.io/fpcxd/unilibris-backend`)
+- **Automação de builds:** GitHub Actions + GitHub Container Registry (GHCR)
 
 ### Banco de Dados
 - **Sistema:** PostgreSQL  
 - **Serviços Gerenciados:** [Neon](https://neon.tech) ou [Supabase](https://supabase.com) (Free Tier)
+- **Persistência:** Volume Docker (`/var/lib/postgresql/data`)
 
 ### Autenticação e Segurança
 - **JWT** com senhas hasheadas via **Argon2id (Argon2)**  
-- **OAuth** via **Microsoft Entra ID**  
+- **OAuth (planejado)** via **Microsoft Entra ID (SSO)**  
   - Restringido a e-mails institucionais:  
     - `@fatec.sp.gov.br`  
     - `@cps.sp.gov.br`
@@ -47,10 +51,44 @@ Assim, **UniLibris** pode ser interpretado como **“Livros da Universidade”**
 ### Comunicação e E-mails
 - **Envio de e-mails transacionais:**  
   - [SendGrid](https://sendgrid.com) (Free Tier)  
-  - ou **SMTP institucional Microsoft 365**
+  - ou **SMTP institucional (Microsoft 365)**  
+- **Notificações internas:** via painel administrativo (novas versões, solicitações, avisos)
 
 ### Observabilidade e Logs
 - **Monitoramento de erros e performance:** [Sentry](https://sentry.io)
+- **Registro de atividades:** logs estruturados via Winston / console JSON (backend)
+- **Acompanhamento de versão:** leitura de *releases* GitHub via API pública
+
+---
+
+## ⚙️ Resumo da Arquitetura e Atualizações
+
+O **UniLibris** roda **100% dentro de contêineres Docker** — com **frontend**, **backend** e **banco de dados** isolados em serviços independentes, garantindo facilidade de deploy e portabilidade entre ambientes.
+
+O servidor possui um arquivo fixo `docker-compose.yml`, responsável por orquestrar os serviços.  
+Cada atualização do sistema é publicada através do **GitHub Releases**, e o **GitHub Actions** realiza automaticamente a **construção e publicação das imagens Docker** no **GitHub Container Registry (GHCR)**.
+
+---
+
+### 🧩 Fluxo de Atualização
+
+1. Um novo **release** é criado no GitHub (exemplo: `v1.2.0`).
+2. O **GitHub Actions**:
+   - Builda as novas imagens (`frontend`, `backend`) via Docker;
+   - Publica no **GHCR** (`ghcr.io/fpcxd/unilibris-frontend` e `unilibris-backend`);
+   - Atualiza as tags `latest` e `v1.2.0`.
+3. O **servidor não atualiza automaticamente** — o processo é controlado manualmente pelo bibliotecário no painel administrativo.
+4. O sistema registra no banco de dados (ou em um arquivo JSON) as informações da **nova versão disponível** e suas **notas de atualização** (extraídas automaticamente do *release* no GitHub).
+5. No painel do **bibliotecário**, aparece uma notificação:
+
+   > 🔔 **Nova versão disponível:** 1.2.0  
+   > 📝 *Correções:* melhorias na exportação de relatórios e na responsividade do painel.  
+   > [🔄 **Atualizar Agora**]
+
+6. Quando o bibliotecário confirma a atualização, o backend executa com segurança:
+
+   ```bash
+   docker compose pull && docker compose up -d
 
 ---
 
@@ -119,7 +157,7 @@ unilibris/
 
 ---
 
-## 🗂️ Funcionalidades Principais (planejadas)
+## 🗂️ Funcionalidades Principais
 - [ ] Cadastro e administração do acervo de livros  
 - [ ] Controle de empréstimos e devoluções  
 - [ ] Consulta de disponibilidade de livros pelos alunos  
