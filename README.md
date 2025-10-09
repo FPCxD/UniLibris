@@ -1,4 +1,4 @@
-> UniLibris - Sistema de Gerenciamento de Biblioteca Acadêmica
+> UniLibris - Sistema de Gerenciamento de Biblioteca Universitária
 
 [![CI](https://img.shields.io/github/actions/workflow/status/FPCxD/UniLibris/ci.yml?label=Build&style=flat-square)](https://github.com/FPCxD/UniLibris/actions)
 ![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
