@@ -1,22 +1,86 @@
-# UniLibris
-UniLibris é um sistema de biblioteca universitária acessível tanto para bibliotecários quanto para alunos.  
-Desenvolvido como site responsivo/PWA (Next.js no frontend, Node.js/Express no backend e PostgreSQL no banco de dados), oferece funcionalidades de cadastro e administração do acervo, controle de empréstimos/devoluções e consulta de disponibilidade de livros.  
+> UniLibris - Sistema de Gerenciamento de Biblioteca Acadêmica
 
+[![CI](https://img.shields.io/github/actions/workflow/status/FPCxD/UniLibris/ci.yml?label=Build&style=flat-square)](https://github.com/FPCxD/UniLibris/actions)
+![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
+![Version](https://img.shields.io/badge/version-1.0.0-blue?style=flat-square)
+
+### 📌 Status do Projeto
+🚧 Em desenvolvimento — prototipagem
+
+---
+
+## 📑 Sumário
+
+1.  [Sobre o Projeto](#-sobre-o-projeto)
+2.  [Origem do Nome](#-origem-do-nome)
+3.  [Objetivos e Público-Alvo](#-objetivos-e-público-alvo)
+4.  [Funcionalidades Principais](#-funcionalidades-principais)
+5.  [Tecnologias Utilizadas](#-tecnologias-utilizadas-planejadas)
+6.  [Arquitetura e Atualizações](#️-resumo-da-arquitetura-e-atualizações)
+7.  [Estrutura de Pastas](#-estrutura-de-pastas)
+8.  [História de usuário e Gherkin](#-história-de-usuário-e-gherkin)
+9.  [Requisitos Não Funcionais](-requisitos-não-funcionais)
+10. [Wireframes](-wireframes)
+11. [Diagramas UML](-diagramas-uml)
+12. [Protótipo de Interface](-protótipo-de-interface) 
+14. [Execução Local](#️-como-executar-o-projeto-localmente)
+15. [Autores e Licença](#-autores-e-licença)
+
+---
+
+# 🧭 Sobre o Projeto
+O **UniLibris** é um sistema web voltado para **gestão de bibliotecas acadêmicas**, desenvolvido como projeto do curso **Análise e Desenvolvimento de Sistemas da FATEC Araraquara**.
+O sistema permite que **bibliotecários** e **alunos** interajam de forma integrada, abrangendo as rotinas de empréstimos, devoluções, reservas, notificações e relatórios.
+
+---
 
 ## 📖 Origem do Nome
 
-O nome **UniLibris** foi escolhido para refletir diretamente o propósito do sistema:
+O nome **UniLibris** une dois conceitos:  
+- **“Uni”**, de *Universidade*, representando o ambiente acadêmico;  
+- **“Libris”**, do latim *liber* (“livro”), remetendo ao conhecimento e à literatura.  
 
-- **"Uni"** → abreviação de **Universidade**, representando o ambiente acadêmico para o qual o projeto é destinado.  
-- **"Libris"** → deriva do **latim *liber***, que significa **livro**. O termo também aparece em expressões como *ex libris* (“dos livros de”), sempre relacionado ao conhecimento e à literatura.  
+Assim, **UniLibris** significa *“Livros da Universidade”* — simbolizando uma biblioteca digital acadêmica, acessível e organizada.
 
-Assim, **UniLibris** pode ser interpretado como **“Livros da Universidade”** ou **“Biblioteca Universitária”**, transmitindo a ideia de um acervo acadêmico organizado e acessível para bibliotecários, professores e  alunos.  
+### ✨ Valores
 
+- **Simplicidade:** curto e fácil de lembrar.  
+- **Identidade acadêmica:** reflete o contexto universitário.  
+- **Tradição e inovação:** combina uma raiz clássica a uma aplicação moderna.
 
-### ✨ Valores transmitidos pelo nome
-- **Simplicidade** → curto, fácil de pronunciar e memorizar.  
-- **Identidade acadêmica** → conecta-se ao contexto universitário.  
-- **Tradição + inovação** → combina uma raiz clássica (*libris*) com uma abordagem tecnológica moderna (site responsivo/PWA).
+---
+
+## 🎯 Objetivos e Público-Alvo
+
+- **Automatizar** as rotinas de empréstimo e devolução de livros;
+- **Simplificar** o acesso ao acervo para alunos da instituição;
+- **Aprimorar** o controle administrativo da biblioteca;
+- **Integrar** notificações e relatórios em um painel intuitivo.
+
+**Público-Alvo:**  
+- Alunos da **FATEC**  
+- Bibliotecários e equipe administrativa da **biblioteca do CPS**
+
+---
+
+## 💡 Funcionalidades Principais
+
+### 👩‍🎓 Aluno
+- Consulta de livros disponíveis  
+- Solicitação de empréstimos  
+- Histórico e notificações automáticas  
+
+### 👩‍💼 Bibliotecário
+- Cadastro e manutenção do acervo  
+- Controle de empréstimos e devoluções  
+- Geração de relatórios e exportações (PDF/CSV)  
+- Gerenciamento de usuários  
+- Notificações sobre novas versões do sistema  
+
+---
+
+## Relatório de constatações obtidas após a visita à biblioteca da FATEC
+[Relatório](docs/Relatorio_Visita_Biblioteca_Fatec_A.pdf)
 
 ---
 
@@ -67,8 +131,6 @@ O **UniLibris** roda **100% dentro de contêineres Docker** — com **frontend**
 
 O servidor possui um arquivo fixo `docker-compose.yml`, responsável por orquestrar os serviços.  
 Cada atualização do sistema é publicada através do **GitHub Releases**, e o **GitHub Actions** realiza automaticamente a **construção e publicação das imagens Docker** no **GitHub Container Registry (GHCR)**.
-
----
 
 ### 🧩 Fluxo de Atualização
 
@@ -152,21 +214,6 @@ unilibris/
 
 ---
 
-## Relatório de constatações obtidas após a visita à biblioteca da FATEC
-[Relatório](docs/Relatorio_Visita_Biblioteca_Fatec_A.pdf)
-
----
-
-## 🗂️ Funcionalidades Principais
-- [ ] Cadastro e administração do acervo de livros  
-- [ ] Controle de empréstimos e devoluções  
-- [ ] Consulta de disponibilidade de livros pelos alunos  
-- [ ] Área do bibliotecário com dashboards de gestão  
-- [ ] Área do aluno com histórico de empréstimos  
-- [ ] Notificações (atrasos/devoluções)
-
----
-
 ## 🧪 História de usuário e Gherkin
 Este projeto adota **Behavior Driven Development (BDD)**.
 As histórias de usuário e os cenários estão descritos em https://github.com/users/FPCxD/projects/1.
@@ -189,8 +236,7 @@ O wireframe está disponível em [Dashboard Bibliotecário - wireframe](docs/pro
   
 ---
 
-## 🎨 Protótipos
-### Diagramas UML (casos de uso, fluxograma e sequência)
+## Diagramas UML
 
 - **Casos de uso**  
 <p align="center">
@@ -217,8 +263,9 @@ O wireframe está disponível em [Dashboard Bibliotecário - wireframe](docs/pro
   <img src="docs/uml/sequencia-login.png" alt="Diagrama de Sequência - Login" width="700"/>
 </p>
 
-  
-### Protótipo de interface (UI/UX)
+---
+
+## Protótipo de Interface
 #### 🖥️ Dashboards – Desktop
 
 - **Dashboard (aluno)**
@@ -355,6 +402,17 @@ O wireframe está disponível em [Dashboard Bibliotecário - wireframe](docs/pro
 
 ---
 
-## 📌 Status do Projeto
+## 👥 Autores e Licença
 
-🚧 Em desenvolvimento — em fase de prototipagem.
+**Desenvolvido por:**  
+[**Fernando Parra Cano**](https://github.com/FPCxD) — FATEC Araraquara  
+Curso de **Análise e Desenvolvimento de Sistemas**
+
+🌐 **Mais sobre o autor:**  
+[Linktree — FPC2903](https://linktr.ee/FPC2903)
+
+📜 **Licença:**  
+Este projeto é distribuído sob a **[MIT License](./LICENSE)**.  
+Você é livre para usar, modificar e distribuir o código, desde que mantenha os créditos ao autor.
+
+
