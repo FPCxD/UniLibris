@@ -133,8 +133,6 @@ O **UniLibris** roda **100% dentro de contêineres Docker** — com **frontend**
 O servidor possui um arquivo fixo `docker-compose.yml`, responsável por orquestrar os serviços.  
 Cada atualização do sistema é publicada através do **GitHub Releases**, e o **GitHub Actions** realiza automaticamente a **construção e publicação das imagens Docker** no **GitHub Container Registry (GHCR)**.
 
----
-
 ### 🧩 Fluxo de Atualização
 
 1. Um novo **release** é criado no GitHub (exemplo: `v1.2.0`).
