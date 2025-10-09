@@ -60,7 +60,7 @@ Assim, **UniLibris** significa *“Livros da Universidade”* — simbolizando u
 
 **Público-Alvo:**  
 - Alunos da **FATEC**  
-- Bibliotecários e equipe administrativa da **biblioteca do CPS**
+- Bibliotecários e equipe administrativa
 
 ---
 
