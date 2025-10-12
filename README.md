@@ -263,17 +263,17 @@ O wireframe está disponível em [Dashboard Bibliotecário - wireframe](docs/pro
   <img src="docs/uml/fluxograma--.png" alt="Fluxograma Geral" width="850"/>
 </p>
 
-- **Diagrama de sequência (Aluno)**  
+- **Diagrama de sequência - Aluno**  
 <p align="center">
   <img src="docs/uml/sequencia-aluno-.png" alt="Diagrama de Sequência - Aluno" width="850"/>
 </p>
 
-- **Diagrama de sequência (Bibliotecário)**  
+- **Diagrama de sequência - Bibliotecário (gerenciar acervo, empréstimos e relatórios)**  
 <p align="center">
   <img src="docs/uml/sequencia-bibliotecario-.png" alt="Diagrama de Sequência - Bibliotecário" width="850"/>
 </p>
 
-- **Diagrama de sequência (Login)**  
+- **Diagrama de sequência - Login**  
 <p align="center">
   <img src="docs/uml/sequencia-login-.png" alt="Diagrama de Sequência - Login" width="850"/>
 </p>
