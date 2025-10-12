@@ -87,13 +87,13 @@ Assim, **UniLibris** significa *“Livros da Universidade”* — simbolizando u
 
 ## 🚀 Tecnologias Utilizadas (planejadas)
 
-### Frontend
+### 🎨 Frontend
 - **Framework:** [Next.js](https://nextjs.org) (React)
 - **Estilo:** [Tailwind CSS](https://tailwindcss.com)
 - **Hospedagem:** [Vercel](https://vercel.com) (Free Tier)
 - **Empacotamento:** Docker (imagem `ghcr.io/fpcxd/unilibris-frontend`)
 
-### Backend
+### 🧩 Backend
 - **Ambiente:** Node.js + Express  
 - **ORM / Schema:** Prisma  
 - **Validação de dados:** Zod  
@@ -101,28 +101,42 @@ Assim, **UniLibris** significa *“Livros da Universidade”* — simbolizando u
 - **Empacotamento:** Docker (imagem `ghcr.io/fpcxd/unilibris-backend`)
 - **Automação de builds:** GitHub Actions + GitHub Container Registry (GHCR)
 
-### Banco de Dados
+### 💾 Banco de Dados
 - **Sistema:** PostgreSQL  
 - **Serviços Gerenciados:** [Neon](https://neon.tech) ou [Supabase](https://supabase.com) (Free Tier)
+- **Recursos adicionais:** Full Text Search (FTS) + trigramas para busca avançada
 - **Persistência:** Volume Docker (`/var/lib/postgresql/data`)
 
-### Autenticação e Segurança
-- **JWT** com senhas hasheadas via **Argon2id (Argon2)**  
-- **OAuth (planejado)** via **Microsoft Entra ID (SSO)**  
-  - Restringido a e-mails institucionais:  
-    - `@fatec.sp.gov.br`  
-    - `@cps.sp.gov.br`
+### 🔐 Autenticação e Segurança
+- **Autenticação:**  
+  - **JWT** com senhas hasheadas via **Argon2id (Argon2)**  
+  - **OAuth (planejado)** via **Microsoft Entra ID (SSO)**  
+    - Restringido a e-mails institucionais:  
+      - `@fatec.sp.gov.br`  
+      - `@cps.sp.gov.br`
+- **Validação:** **Zod** em todas as rotas e formulários  
+- **Criptografia:** TLS obrigatória nas comunicações  
+- **Monitoramento:** **Sentry** + logs estruturados com **Winston**  
+- **Scans automáticos:** **Prowler** + **GitHub Dependabot**  
+- **Permissões:** controle por função (*aluno / bibliotecário*)  
 
-### Comunicação e E-mails
+### ⚙️ Automação e Recursos Inteligentes
+- **Lembretes automáticos:** baseados em regras heurísticas (*não-é-IA*)  
+- **Catalogação MARC21:** parser e importação automatizada  
+- **Relatórios programados:** geração periódica em CSV e PDF  
+- **Busca aprimorada:** Full Text Search (FTS) + trigramas  
+  - *(planejada extensão semântica futura)*  
+
+### ✉️ Comunicação e E-mails
 - **Envio de e-mails transacionais:**  
-  - [SendGrid](https://sendgrid.com) (Free Tier)  
+  - [SendGrid](https://sendgrid.com) *(Free Tier)*  
   - ou **SMTP institucional (Microsoft 365)**  
-- **Notificações internas:** via painel administrativo (novas versões, solicitações, avisos)
 
-### Observabilidade e Logs
-- **Monitoramento de erros e performance:** [Sentry](https://sentry.io)
-- **Registro de atividades:** logs estruturados via Winston / console JSON (backend)
-- **Acompanhamento de versão:** leitura de *releases* GitHub via API pública
+### 🧩 Observabilidade e DevOps
+- **CI/CD:** **GitHub Actions** + **GHCR**  
+- **Containerização:** **Docker Compose**  
+- **Monitoramento:** **Sentry** *(erros e performance)*  
+- **Deploy controlado:** atualização manual via painel do bibliotecário  
 
 ---
 
