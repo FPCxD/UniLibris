@@ -109,7 +109,7 @@ Assim, **UniLibris** significa *“Livros da Universidade”* — simbolizando u
 
 ### 🔐 Autenticação e Segurança
 - **Autenticação:**  
-  - **JWT** com senhas hasheadas via **Argon2id (Argon2)**  
+  - **JWT** com senhas hasheadas via **Argon2id (Argon2)** com **salt exclusivo por usuário**
   - **OAuth (planejado)** via **Microsoft Entra ID (SSO)**  
     - Restringido a e-mails institucionais:  
       - `@fatec.sp.gov.br`  
