@@ -219,7 +219,7 @@ unilibris/
 |   |   └── non-functional.md            # Requisitos Não Funcionais 
 |   └── uml/                             # Pasta para diagramas UML
 |       ├── fluxograma-.png               # Fluxograma geral do sistema, mostrando o fluxo de uso entre alunos e bibliotecários
-|       ├── casos_de_uso_.png             # Diagrama de casos de uso UML, ilustrando os atores e funcionalidades principais
+|       ├── casos-de-uso.png             # Diagrama de casos de uso UML, ilustrando os atores e funcionalidades principais
 |       ├── sequencia-aluno.png          # Diagrama de sequência UML mostrando a interação de um aluno consultando livros
 |       ├── sequencia-bibliotecario.png  # Diagrama de sequência UML mostrando a interação de um bibliotecário cadastrando livros
 |       └── sequencia-login.png          # Diagrama de sequência UML mostrando a interação de login com validação de role    
@@ -255,7 +255,7 @@ O wireframe está disponível em [Dashboard Bibliotecário - wireframe](docs/pro
 
 - **Casos de uso**  
 <p align="center">
-  <img src="docs/uml/casos_de_uso_.png" alt="Diagrama de Casos de Uso" width="480"/>
+  <img src="docs/uml/casos-de-uso.png" alt="Diagrama de Casos de Uso" width="480"/>
 </p>
 
 - **Fluxograma**  
