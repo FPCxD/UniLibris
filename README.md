@@ -221,7 +221,7 @@ unilibris/
 |       ├── fluxograma--.png               # Fluxograma geral do sistema, mostrando o fluxo de uso entre alunos e bibliotecários
 |       ├── casos-de-uso.png             # Diagrama de casos de uso UML, ilustrando os atores e funcionalidades principais
 |       ├── sequencia-aluno-.png          # Diagrama de sequência UML mostrando a interação de um aluno consultando livros
-|       ├── sequencia-bibliotecario-.png  # Diagrama de sequência UML mostrando a interação de um bibliotecário cadastrando livros
+|       ├── sequencia-bibliotecario--.png  # Diagrama de sequência UML mostrando a interação de um bibliotecário cadastrando livros
 |       └── sequencia-login-.png          # Diagrama de sequência UML mostrando a interação de login com validação de role    
 |
 └── README.md                            # Apresentação geral do projeto
@@ -268,9 +268,9 @@ O wireframe está disponível em [Dashboard Bibliotecário - wireframe](docs/pro
   <img src="docs/uml/sequencia-aluno-.png" alt="Diagrama de Sequência - Aluno" width="850"/>
 </p>
 
-- **Diagrama de sequência - Bibliotecário (gerenciar acervo, empréstimos e relatórios)**  
+- **Diagrama de sequência - Bibliotecário**  
 <p align="center">
-  <img src="docs/uml/sequencia-bibliotecario-.png" alt="Diagrama de Sequência - Bibliotecário" width="850"/>
+  <img src="docs/uml/sequencia-bibliotecario--.png" alt="Diagrama de Sequência - Bibliotecário" width="850"/>
 </p>
 
 - **Diagrama de sequência - Login**  
