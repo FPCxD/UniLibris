@@ -10,7 +10,7 @@
 ### 🔐 Autenticação e Segurança
 
 - **Autenticação híbrida:**
-  - **JWT** com senhas hasheadas via **Argon2id (Argon2)** para logins locais;  
+  - **JWT** com senhas hasheadas via **Argon2id (Argon2)** com **salt exclusivo por usuário**;
   - **OAuth (planejado)** via **Microsoft Entra ID (SSO)**, garantindo autenticação segura e integrada ao ambiente institucional Microsoft 365;  
   - Restrito a e-mails institucionais:
     - `@fatec.sp.gov.br`
