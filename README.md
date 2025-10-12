@@ -255,7 +255,7 @@ O wireframe está disponível em [Dashboard Bibliotecário - wireframe](docs/pro
 
 - **Casos de uso**  
 <p align="center">
-  <img src="docs/uml/casos-de-uso.png" alt="Diagrama de Casos de Uso" width="480"/>
+  <img src="docs/uml/casos-de-uso.png" alt="Diagrama de Casos de Uso" width="700"/>
 </p>
 
 - **Fluxograma**  
