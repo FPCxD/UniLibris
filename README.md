@@ -121,7 +121,7 @@ Assim, **UniLibris** significa *“Livros da Universidade”* — simbolizando u
 - **Permissões:** controle por função (*aluno / bibliotecário*)  
 
 ### ⚙️ Automação e Recursos Inteligentes
-- **Lembretes automáticos:** baseados em regras heurísticas (*não-é-IA*)  
+- **Lembretes automáticos:** baseados em regras heurísticas  
 - **Catalogação MARC21:** parser e importação automatizada  
 - **Relatórios programados:** geração periódica em CSV e PDF  
 - **Busca aprimorada:** Full Text Search (FTS) + trigramas  
