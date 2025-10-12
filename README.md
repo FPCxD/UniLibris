@@ -255,27 +255,27 @@ O wireframe está disponível em [Dashboard Bibliotecário - wireframe](docs/pro
 
 - **Casos de uso**  
 <p align="center">
-  <img src="docs/uml/casos-de-uso.png" alt="Diagrama de Casos de Uso" width="700"/>
+  <img src="docs/uml/casos-de-uso.png" alt="Diagrama de Casos de Uso" width="850"/>
 </p>
 
 - **Fluxograma**  
 <p align="center">
-  <img src="docs/uml/fluxograma--.png" alt="Fluxograma Geral" width="700"/>
+  <img src="docs/uml/fluxograma--.png" alt="Fluxograma Geral" width="850"/>
 </p>
 
 - **Diagrama de sequência (Aluno)**  
 <p align="center">
-  <img src="docs/uml/sequencia-aluno-.png" alt="Diagrama de Sequência - Aluno" width="700"/>
+  <img src="docs/uml/sequencia-aluno-.png" alt="Diagrama de Sequência - Aluno" width="850"/>
 </p>
 
 - **Diagrama de sequência (Bibliotecário)**  
 <p align="center">
-  <img src="docs/uml/sequencia-bibliotecario-.png" alt="Diagrama de Sequência - Bibliotecário" width="700"/>
+  <img src="docs/uml/sequencia-bibliotecario-.png" alt="Diagrama de Sequência - Bibliotecário" width="850"/>
 </p>
 
 - **Diagrama de sequência (Login)**  
 <p align="center">
-  <img src="docs/uml/sequencia-login-.png" alt="Diagrama de Sequência - Login" width="700"/>
+  <img src="docs/uml/sequencia-login-.png" alt="Diagrama de Sequência - Login" width="850"/>
 </p>
 
 ---
