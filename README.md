@@ -214,17 +214,18 @@ unilibris/
 |   |   │   ├── logout.jpg
 |   |   │   └── register-.jpg
 |   │   ├── Relatorio_Visita_Biblioteca_Fatec_A.pdf
+|   |   ├── catalogacao-padroes.md 
 |   |   └── README.md
 │   ├── requirements/
-|   |   └── non-functional.md            # Requisitos Não Funcionais 
-|   └── uml/                             # Pasta para diagramas UML
+|   |   └── non-functional.md              # Requisitos Não Funcionais 
+|   └── uml/                               # Pasta para diagramas UML
 |       ├── fluxograma--.png               # Fluxograma geral do sistema, mostrando o fluxo de uso entre alunos e bibliotecários
-|       ├── casos-de-uso.png             # Diagrama de casos de uso UML, ilustrando os atores e funcionalidades principais
-|       ├── sequencia-aluno-.png          # Diagrama de sequência UML mostrando a interação de um aluno consultando livros
+|       ├── casos-de-uso.png               # Diagrama de casos de uso UML, ilustrando os atores e funcionalidades principais
+|       ├── sequencia-aluno-.png           # Diagrama de sequência UML mostrando a interação de um aluno consultando livros
 |       ├── sequencia-bibliotecario--.png  # Diagrama de sequência UML mostrando a interação de um bibliotecário cadastrando livros
-|       └── sequencia-login-.png          # Diagrama de sequência UML mostrando a interação de login com validação de role    
+|       └── sequencia-login-.png           # Diagrama de sequência UML mostrando a interação de login com validação de role    
 |
-└── README.md                            # Apresentação geral do projeto
+└── README.md                              # Apresentação geral do projeto
 ```
 
 ---
