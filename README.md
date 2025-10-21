@@ -80,8 +80,14 @@ Assim, **UniLibris** significa *“Livros da Universidade”* — simbolizando u
 
 ---
 
-## Relatório de constatações obtidas após a visita à biblioteca da FATEC
-[Relatório](docs/Relatorio_Visita_Biblioteca_Fatec_A.pdf)
+## 📋 Relatório de constatações obtidas após a visita à biblioteca da FATEC
+[RELATÓRIO](docs/Relatorio_Visita_Biblioteca_Fatec_A.pdf)
+
+---
+
+## 📚 Metodologia de Catalogação — UniLibris
+O UniLibris adota uma metodologia de catalogação baseada nos principais padrões internacionais utilizados em sistemas de bibliotecas acadêmicas, garantindo compatibilidade com plataformas como Biblivre, Koha, Pergamum e Sophia.
+[METODOLOGIA APLICADA](docs/catalogacao-padroes.md)
 
 ---
 
