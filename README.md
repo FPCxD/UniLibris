@@ -18,7 +18,7 @@
 5.  [Relatório de Constatações](#-relatório-de-constatações-obtidas-após-a-visita-à-biblioteca-da-fatec)
 6.  [Metodologia de Catalogação](#-metodologia-de-catalogação)
 7.  [Tecnologias Utilizadas (planejadas)](#-tecnologias-utilizadas-planejadas)
-8.  [Resumo da Arquitetura e Atualizações](#-resumo-da-arquitetura-e-atualizações)
+8.  [Resumo da Arquitetura e Atualizações](#-fluxo-de-atualização)
 9.  [Estrutura de Pastas](#-estrutura-de-pastas)
 10. [História de Usuário e Gherkin](#-história-de-usuário-e-gherkin)
 11. [Requisitos Não Funcionais](#-requisitos-não-funcionais)
