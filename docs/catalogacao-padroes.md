@@ -28,12 +28,13 @@ Cada registro MARC é estruturado em **campos numéricos** (ex: `245`, `100`, `6
 4. **Delimitadores:** separam subcampos e campos.
 
 📘 **Exemplo textual:**
+``
 =LDR 00000nam a2200000 a 4500
 =100 1\$aSilva, João da.
 =245 10$aIntrodução à Ciência da Informação :$bconceitos e aplicações.
 =260 \$aSão Paulo :$bAtlas,$c2023.
 =020 \$a9788535245892
-
+``
 
 ➡️ **Interpretação (AACR2/ISBD):**  
 Silva, João da. *Introdução à Ciência da Informação : conceitos e aplicações.* — São Paulo : Atlas, 2023. — ISBN 9788535245892
