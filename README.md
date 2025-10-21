@@ -212,7 +212,7 @@ unilibris/
 |   |   │   ├── perfil_aluno.jpg
 |   |   │   ├── forgot-password.jpg
 |   |   │   ├── login.jpg
-|   |   │   ├── acervo.jpg
+|   |   │   ├── acervo-.jpg
 |   |   │   ├── emprestimos.jpg
 |   |   │   ├── relatorios_.jpg
 |   |   │   ├── usuarios-.jpg
@@ -308,7 +308,7 @@ O wireframe está disponível em [Dashboard Bibliotecário - wireframe](docs/pro
 
 - **Acervo (bibliotecário)**
 <p align="center"> 
-  <img src="./docs/prototipos/img_desktop/acervo.png" alt="Dashboard de acervo (bibliotecário) – Desktop" width="850"/>
+  <img src="./docs/prototipos/img_desktop/acervo-.png" alt="Dashboard de acervo (bibliotecário) – Desktop" width="850"/>
 </p>
 
 - **Empréstimos (bibliotecário)**
@@ -376,7 +376,7 @@ O wireframe está disponível em [Dashboard Bibliotecário - wireframe](docs/pro
 
 - **Acervo (bibliotecário)**
 <p align="center"> 
-  <img src="./docs/prototipos/img_mobile/acervo.jpg" alt="Dashboard de acervo (bibliotecário) – Mobile" width="250"/>
+  <img src="./docs/prototipos/img_mobile/acervo-.jpg" alt="Dashboard de acervo (bibliotecário) – Mobile" width="250"/>
 </p>
 
 - **Empréstimos (bibliotecário)**
