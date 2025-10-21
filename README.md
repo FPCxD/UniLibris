@@ -2,7 +2,7 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/FPCxD/UniLibris/ci.yml?label=Build&style=flat-square)](https://github.com/FPCxD/UniLibris/actions)
 ![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
-![Version](https://img.shields.io/badge/version-1.0.0-blue?style=flat-square)
+![Version](https://img.shields.io/badge/version-0.1-blue?style=flat-square)
 
 ### 📌 Status do Projeto
 🚧 Em desenvolvimento — prototipagem
