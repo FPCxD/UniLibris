@@ -15,16 +15,17 @@
 2.  [Origem do Nome](#-origem-do-nome)
 3.  [Objetivos e Público-Alvo](#-objetivos-e-público-alvo)
 4.  [Funcionalidades Principais](#-funcionalidades-principais)
-5.  [Relatório de Constatações](#relatório-de-constatações-obtidas-após-a-visita-à-biblioteca-da-fatec)
-6.  [Tecnologias Utilizadas (planejadas)](#-tecnologias-utilizadas-planejadas)
-7.  [Resumo da Arquitetura e Atualizações](#-resumo-da-arquitetura-e-atualizações)
-8.  [Estrutura de Pastas](#-estrutura-de-pastas)
-9.  [História de Usuário e Gherkin](#-história-de-usuário-e-gherkin)
-10. [Requisitos Não Funcionais](#-requisitos-não-funcionais)
-11. [Wireframes](#-wireframes)
-12. [Diagramas UML](#diagramas-uml)
-13. [Protótipo de Interface](#protótipo-de-interface)
-14. [Autores e Licença](#-autores-e-licença)
+5.  [Relatório de Constatações](#-relatório-de-constatações-obtidas-após-a-visita-à-biblioteca-da-fatec)
+6.  [Metodologia de Catalogação](#-metodologia-de-catalogação)
+7.  [Tecnologias Utilizadas (planejadas)](#-tecnologias-utilizadas-planejadas)
+8.  [Resumo da Arquitetura e Atualizações](#-resumo-da-arquitetura-e-atualizações)
+9.  [Estrutura de Pastas](#-estrutura-de-pastas)
+10. [História de Usuário e Gherkin](#-história-de-usuário-e-gherkin)
+11. [Requisitos Não Funcionais](#-requisitos-não-funcionais)
+12. [Wireframes](#-wireframes)
+13. [Diagramas UML](#diagramas-uml)
+14. [Protótipo de Interface](#protótipo-de-interface)
+15. [Autores e Licença](#-autores-e-licença)
 
 
 ---
@@ -85,7 +86,7 @@ Assim, **UniLibris** significa *“Livros da Universidade”* — simbolizando u
 
 ---
 
-## 📚 Metodologia de Catalogação — UniLibris
+## 📚 Metodologia de Catalogação
 O UniLibris adota uma metodologia de catalogação baseada nos principais padrões internacionais utilizados em sistemas de bibliotecas acadêmicas, garantindo compatibilidade com plataformas como Biblivre, Koha, Pergamum e Sophia.
 [METODOLOGIA APLICADA](docs/catalogacao-padroes.md)
 
