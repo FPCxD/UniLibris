@@ -1,0 +1,49 @@
+# ---- Root .gitignore for UniLibris (backend + frontend Next.js) ----
+
+# Node / package managers
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json.*
+yarn.lock.*.tmp
+
+# Next.js / build artifacts
+.next/
+out/
+.turbo/
+.next-static/
+# Coverage / cache
+coverage/
+.cache/
+
+# Env files (keep examples tracked)
+.env
+.env.*
+!.env.example
+!.env.local.example
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+logs/
+*.pid
+*.seed
+
+# Docker / runtime
+docker-data/
+*.local.yaml
+
+# TypeScript incremental build (if used)
+*.tsbuildinfo
+
+# Misc
+dist/
+build/
