@@ -19,13 +19,15 @@
 6.  [Metodologia de Catalogação](#-metodologia-de-catalogação)
 7.  [Tecnologias Utilizadas (planejadas)](#-tecnologias-utilizadas-planejadas)
 8.  [Resumo da Arquitetura e Atualizações](#-fluxo-de-atualização)
-9.  [Estrutura de Pastas](#-estrutura-de-pastas)
-10. [História de Usuário e Gherkin](#-história-de-usuário-e-gherkin)
-11. [Requisitos Não Funcionais](#-requisitos-não-funcionais)
-12. [Wireframes](#-wireframes)
-13. [Diagramas UML](#diagramas-uml)
-14. [Protótipo de Interface](#protótipo-de-interface)
-15. [Autores e Licença](#-autores-e-licença)
+9.  [Como Rodar o Backend](#-como-rodar-o-backend)
+10. [Como Rodar o Frontend](#-executando-o-frontend-localmente)
+11. [Estrutura de Pastas](#-estrutura-de-pastas)
+12. [História de Usuário e Gherkin](#-história-de-usuário-e-gherkin)
+13. [Requisitos Não Funcionais](#-requisitos-não-funcionais)
+14. [Wireframes](#-wireframes)
+15. [Diagramas UML](#diagramas-uml)
+16. [Protótipo de Interface](#protótipo-de-interface)
+17. [Autores e Licença](#-autores-e-licença)
 
 
 ---
@@ -173,6 +175,48 @@ Cada atualização do sistema é publicada através do **GitHub Releases**, e o 
 
    ```bash
    docker compose pull && docker compose up -d
+
+---
+
+## 🚀 Executando o Frontend Localmente
+
+Este repositório contém um exemplo do **frontend** do projeto **UniLibris**, desenvolvido com **Next.js** e **Tailwind CSS**.
+
+### 🔧 Pré-requisitos
+
+Certifique-se de ter instalado:
+
+- [Node.js](https://nodejs.org/) (versão 18 ou superior)  
+- [npm](https://www.npmjs.com/) (geralmente incluído com o Node)
+
+### 📦 Instalação
+
+Clone o repositório e entre na pasta do frontend:
+
+```bash
+git clone https://github.com/FPCxD/UniLibris.git
+cd UniLibris/frontend
+```
+
+Instale as dependências:
+
+```bash
+npm install
+```
+
+### ▶️ Executando o projeto
+
+Para iniciar o servidor de desenvolvimento:
+
+```bash
+npm run dev
+```
+
+O frontend estará disponível em:
+
+👉 **http://localhost:3000**
+
+Qualquer alteração feita nos arquivos será recarregada automaticamente.
 
 ---
 
