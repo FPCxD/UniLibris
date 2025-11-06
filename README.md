@@ -178,6 +178,10 @@ Cada atualização do sistema é publicada através do **GitHub Releases**, e o 
 
 ---
 
+## ⚙️ Como Rodar o Backend
+
+---
+
 ## 🚀 Executando o Frontend Localmente
 
 Este repositório contém um exemplo do **frontend** do projeto **UniLibris**, desenvolvido com **Next.js** e **Tailwind CSS**.
