@@ -19,7 +19,7 @@
 6.  [Metodologia de Catalogação](#-metodologia-de-catalogação)
 7.  [Tecnologias Utilizadas (planejadas)](#-tecnologias-utilizadas-planejadas)
 8.  [Resumo da Arquitetura e Atualizações](#-fluxo-de-atualização)
-9.  [Planejamento do Projeto (5W2H)](#planejamento-do-projeto)
+9.  [Planejamento do Projeto](#-planejamento-do-projeto)
 10. [Como Rodar o Backend](#-como-rodar-o-backend)
 11. [Como Rodar o Frontend](#-executando-o-frontend-localmente)
 12. [Estrutura de Pastas](#-estrutura-de-pastas)
