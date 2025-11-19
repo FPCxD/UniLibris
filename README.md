@@ -269,6 +269,7 @@ unilibris/
 |   |   │   ├── logout.jpg
 |   |   │   └── register-.jpg
 |   │   ├── Relatorio_Visita_Biblioteca_Fatec_A.pdf
+|   │   ├── PLANEJAMENTO_DO_PROJETO_UNILIBRIS.md
 |   |   ├── catalogacao-padroes.md 
 |   |   └── README.md
 │   ├── requirements/
