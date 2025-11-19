@@ -1,4 +1,4 @@
-# 📘 Planejamento Completo do Projeto UniLibris  
+# 📘 Planejamento do Projeto UniLibris  
 ## 5W2H + Planejamento de Investimento  
 
 ---
