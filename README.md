@@ -182,7 +182,7 @@ Cada atualização do sistema é publicada através do **GitHub Releases**, e o 
 ## 📖 Planejamento do Projeto
 [PLANEJAMENTO](docs/PLANEJAMENTO_DO_PROJETO_UNILIBRIS.md)
 
---
+---
 
 ## ⚙️ Como Rodar o Backend
 
