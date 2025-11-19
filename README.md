@@ -19,15 +19,16 @@
 6.  [Metodologia de Catalogação](#-metodologia-de-catalogação)
 7.  [Tecnologias Utilizadas (planejadas)](#-tecnologias-utilizadas-planejadas)
 8.  [Resumo da Arquitetura e Atualizações](#-fluxo-de-atualização)
-9.  [Como Rodar o Backend](#-como-rodar-o-backend)
-10. [Como Rodar o Frontend](#-executando-o-frontend-localmente)
-11. [Estrutura de Pastas](#-estrutura-de-pastas)
-12. [História de Usuário e Gherkin](#-história-de-usuário-e-gherkin)
-13. [Requisitos Não Funcionais](#-requisitos-não-funcionais)
-14. [Wireframes](#-wireframes)
-15. [Diagramas UML](#diagramas-uml)
-16. [Protótipo de Interface](#protótipo-de-interface)
-17. [Autores e Licença](#-autores-e-licença)
+9.  [Planejamento do Projeto (5W2H)](#planejamento-do-projeto)
+10. [Como Rodar o Backend](#-como-rodar-o-backend)
+11. [Como Rodar o Frontend](#-executando-o-frontend-localmente)
+12. [Estrutura de Pastas](#-estrutura-de-pastas)
+13. [História de Usuário e Gherkin](#-história-de-usuário-e-gherkin)
+14. [Requisitos Não Funcionais](#-requisitos-não-funcionais)
+15. [Wireframes](#-wireframes)
+16. [Diagramas UML](#diagramas-uml)
+17. [Protótipo de Interface](#protótipo-de-interface)
+18. [Autores e Licença](#-autores-e-licença)
 
 
 ---
@@ -177,6 +178,11 @@ Cada atualização do sistema é publicada através do **GitHub Releases**, e o 
    docker compose pull && docker compose up -d
 
 ---
+
+## 📖 Planejamento do Projeto
+[PLANEJAMENTO](docs/PLANEJAMENTO_DO_PROJETO_UNILIBRIS.md)
+
+--
 
 ## ⚙️ Como Rodar o Backend
 
