@@ -90,7 +90,7 @@ O projeto seguirá *exatamente* a arquitetura do repositório:
 | Tech Lead | 1 | Arquitetura, revisão técnica |
 | Backend Dev | 1–2 | API, banco, Prisma |
 | Frontend Dev | 1–2 | Telas, UX, integração |
-| DevOps | 1 | Docker, deploy, CI/CD |
+| DevSecOps | 1 | Docker, deploy, CI/CD |
 | UX/UI Designer | 1 | Wireframes, protótipos |
 | QA Tester | 1 | Testes, cenários, validação |
 
@@ -135,7 +135,7 @@ O projeto seguirá *exatamente* a arquitetura do repositório:
 |------|--------|
 | Desenvolvimento (4 devs por 4 meses) | R$ 64.000 |
 | UX/UI Designer | R$ 5.000 |
-| DevOps | R$ 4.000 |
+| DevSecOps | R$ 4.000 |
 | QA | R$ 8.000 |
 | Infra | R$ 1.500 |
 | Ferramentas | R$ 500 |
