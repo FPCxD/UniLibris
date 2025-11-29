@@ -130,26 +130,101 @@ O projeto seguirá *exatamente* a arquitetura do repositório:
 
 # 💰 7. HOW MUCH – Quanto custará?
 
-### Estimativa Realista (4 meses)
-| Item | Custo |
-|------|--------|
-| Desenvolvimento (4 devs por 4 meses) | R$ 64.000 |
-| UX/UI Designer | R$ 5.000 |
-| DevSecOps | R$ 4.000 |
-| QA | R$ 8.000 |
-| Infra | R$ 1.500 |
-| Ferramentas | R$ 500 |
-| **Total** | **R$ 83.000** |
+A estimativa de custos considera uma equipe enxuta, porém qualificada, trabalhando durante 4 meses.  
+Todos os salários foram calculados com base na média do mercado brasileiro e ajustados pelo fator **1,8×** para contemplar encargos e impostos do regime CLT.
 
-### Valor solicitado aos investidores:
-## **➡️ R$ 85.000**
+## 🧑‍🏫 7.1 Custos de Pessoal (com CLT incluso – 1,8×)
+
+| Cargo | Qtde | Salário Médio Mensal (PJ) | Salário CLT (×1,8) | Custo total (4 meses) |
+|------|------|----------------------------|---------------------|------------------------|
+| Product Owner | 1 | R$ 4.000 | **R$ 7.200** | **R$ 28.800** |
+| Tech Lead | 1 | R$ 6.000 | **R$ 10.800** | **R$ 43.200** |
+| Backend Developer | 1 | R$ 4.000 | **R$ 7.200** | **R$ 28.800** |
+| Frontend Developer | 1 | R$ 4.000 | **R$ 7.200** | **R$ 28.800** |
+| DevOps (meio período) | 1 | R$ 2.000 | **R$ 3.600** | **R$ 14.400** |
+| UX/UI Designer | 1 | R$ 3.000 | **R$ 5.400** | **R$ 5.400** (1 mês) |
+| QA Tester | 1 | R$ 2.000 | **R$ 3.600** | **R$ 7.200** (2 meses) |
+
+### ✔ Subtotal de mão de obra  
+**R$ 156.600**
+
+---
+
+## 🧩 7.2 Infraestrutura e Ferramentas
+
+| Despesa | Valor |
+|--------|--------|
+| VPS/Servidor + banco + backups | R$ 1.500 |
+| Domínio + DNS + SSL | R$ 150 |
+| Ferramentas (Figma, GitHub Pro, testes) | R$ 500 |
+
+### ✔ Subtotal infraestrutura  
+**R$ 2.150**
+
+---
+
+## 🧮 7.3 Total Geral do Projeto
+
+| Categoria | Valor |
+|----------|-------|
+| Mão de obra CLT (4 meses) | R$ 156.600 |
+| Infraestrutura | R$ 2.150 |
+| **TOTAL FINAL ESTIMADO** | **R$ 158.750** |
+
+---
+
+## 💸 7.4 Valor solicitado ao Investidor
+
+### **➡️ Valor solicitado: R$ 160.000**
+
+Inclui uma reserva operacional de segurança de **0,8%**.
+
+---
+
+# 🎯 7.5 Justificativa Comercial para Investidores
+
+Além do impacto social nas instituições e do potencial de expansão como plataforma SaaS para bibliotecas, foi incluído um benefício exclusivo para o investidor:
+
+### ⭐ **Inserção de marca do investidor na tela de login**
+Por contrato, o investidor terá:
+
+- Logotipo exibido na **tela de login** como  
+  “Sistema UniLibris – Patrocinado por *NOME DO INVESTIDOR*”
+- Exposição por um período pré-definido (1 ano)
+- Possibilidade de link para o site da empresa investidora
+- Exibição nas versões web e mobile
+- Repositório do GitHub conterá menção de:  
+  “Financiado por *NOME DO INVESTIDOR* – Programa de Investimento Anjo”
+
+### 🎁 Benefícios para o investidor:
+- Fortalecimento de marca associada à educação, tecnologia e inovação  
+- Alcance direto em Fatecs, Etecs, escolas e bibliotecas  
+- Possibilidade de futuras renovações de branding  
+- Utilização da plataforma como *case* de inovação patrocinada  
+- Participação em eventos e apresentações do projeto  
+- Vantagem de visibilidade em um sistema que será demonstrado publicamente
+
+---
+
+# 📌 7.6 Conclusão Financeira
+
+O valor de **R$ 160.000** cobre:
+
+- 4 meses de desenvolvimento completo  
+- Pessoal CLT com encargos  
+- Infraestrutura  
+- Gestão e documentação completa  
+- Margem de segurança  
+- Retorno de marketing para o investidor  
+
+O investimento é **sustentado**, **viável** e apresenta **crescimento escalável** para toda a rede de bibliotecas da Fatec e instituições futuras.
 
 ---
 
 # 🏆 Proposta dos Investidores – Respostas
 
 ### ✔ 1. Quanto vocês querem?  
-**R$ 85.000**
+**R$ 160.000**
 
 ### ✔ 2. Etapas com datas  
 (Ver cronograma acima — principal artefato)
