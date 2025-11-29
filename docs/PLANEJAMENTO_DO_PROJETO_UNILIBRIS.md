@@ -94,7 +94,7 @@ O projeto seguirá *exatamente* a arquitetura do repositório:
 | UX/UI Designer | 1 | Wireframes, protótipos |
 | QA Tester | 1 | Testes, cenários, validação |
 
-**Total recomendado: 6 pessoas**
+**Total recomendado: 7 pessoas**
 
 ---
 
@@ -141,7 +141,7 @@ Todos os salários foram calculados com base na média do mercado brasileiro e a
 | Tech Lead | 1 | R$ 6.000 | **R$ 10.800** | **R$ 43.200** |
 | Backend Developer | 1 | R$ 4.000 | **R$ 7.200** | **R$ 28.800** |
 | Frontend Developer | 1 | R$ 4.000 | **R$ 7.200** | **R$ 28.800** |
-| DevOps (meio período) | 1 | R$ 2.000 | **R$ 3.600** | **R$ 14.400** |
+| DevSecOps (meio período) | 1 | R$ 2.000 | **R$ 3.600** | **R$ 14.400** |
 | UX/UI Designer | 1 | R$ 3.000 | **R$ 5.400** | **R$ 5.400** (1 mês) |
 | QA Tester | 1 | R$ 2.000 | **R$ 3.600** | **R$ 7.200** (2 meses) |
 
